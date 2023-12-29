@@ -11,6 +11,11 @@ a
 p
 h
 
+- [ ] a check box
+- [ ] another one
+- [ ] another one
+- [ ] 
+
 Shelf
 1. Coat with something
 2. Hang it up
