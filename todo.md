@@ -17,6 +17,12 @@ h
 
 - [ x ] how
 
+let's make another list
+- [ ] empty
+- [ ] empty
+- [x] filled
+- [ ] empty
+
 Shelf
 1. Coat with something
 2. Hang it up
