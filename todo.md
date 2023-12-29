@@ -1,28 +1,3 @@
-I am writing a  
-paragraph
-here is a 
-p
-a
-r
-a
-g 
-r
-a  
-p
-h
-
-- [?] a check box
-- [x] another one
-- [!] another one
-
-- [ x ] how
-
-let's make another list
-- [ ] empty
-- [ ] empty
-- [x] filled
-- [ ] empty
-
 Shelf
 1. Coat with something
 2. Hang it up
@@ -42,13 +17,13 @@ create live usb
 3. 
 
 microtonal
-https://www.reddit.com/r/microtonal/comments/12spjfn/what_are_some_free_easytouse_microtonal_vsts/
-https://surge-synthesizer.github.io/
-https://wilsonic.co/
-https://biptunia.com/?page_id=2070
-https://www.fullbucket.de/music/vst.html
-VITAL   https://vital.audio/#getvital
-https://sevish.com/music-resources/#tuning-files
+[REDDIT](https://www.reddit.com/r/microtonal/comments/12spjfn/what_are_some_free_easytouse_microtonal_vsts/)
+https://surge-synthesizer.github.io/  
+https://wilsonic.co/  
+https://biptunia.com/?page_id=2070  
+https://www.fullbucket.de/music/vst.html  
+[VITAL](https://vital.audio/#getvital)
+https://sevish.com/music-resources/#tuning-files  
 [scale workshop](https://sevish.com/scaleworkshop/?version=2.1.0)
 Pianoteq
 kontakt
