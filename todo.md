@@ -11,9 +11,9 @@ a
 p
 h
 
-- [ ] a check box
-- [ ] another one
-- [ ] another one
+- [?] a check box
+- [x] another one
+- [!] another one
 - [ ] 
 
 Shelf
