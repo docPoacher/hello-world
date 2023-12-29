@@ -14,7 +14,8 @@ h
 - [?] a check box
 - [x] another one
 - [!] another one
-- [ ] 
+
+- [ x ] how
 
 Shelf
 1. Coat with something
