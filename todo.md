@@ -11,7 +11,7 @@ lowes
 2. Hardboard
 3. 3/8in plywood for doors and drawers
 
-[!create live usb]
+create live usb
 1. Arch?
 2. Renoise?
 3. 
@@ -30,12 +30,19 @@ kontakt
 
 [an interview with Georg Vogel](https://15questions.net/interview/georg-vogel-dsilton-about-alternative-tuning-systems/page-1/)
 
+[septimal tunings](https://en.wikipedia.org/wiki/7-limit_tuning#:~:text=7%2Dlimit%20or%20septimal%20tunings,but%2014%3A11%20is%20not.) 
+
+
 [colin Booths stuff](https://www.colinbooth.co.uk/did-bach-really-mean-that-colin-booth)
+
+
 
 Enharmntuplet journal:
 http://www.georgvogel.net/edb/ETP_2020-07.pdf
 http://www.georgvogel.net/edb/EDdB-ETP_2020-08.pdf
 
 [delete tweets](https://www.wikihow.com/Delete-All-Tweets#:~:text=Download%20a%20free%20tool%20called,easy%20to%20delete%20all%20tweets.)
+
+https://dillinger.io/
 
 
