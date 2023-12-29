@@ -11,7 +11,7 @@ lowes
 2. Hardboard
 3. 3/8in plywood for doors and drawers
 
-create live usb
+[!create live usb]
 1. Arch?
 2. Renoise?
 3. 
