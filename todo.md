@@ -24,8 +24,8 @@ https://biptunia.com/?page_id=2070
 https://www.fullbucket.de/music/vst.html  
 [VITAL](https://vital.audio/#getvital)
 https://sevish.com/music-resources/#tuning-files  
-[scale workshop](https://sevish.com/scaleworkshop/?version=2.1.0)
-Pianoteq
+[scale workshop](https://sevish.com/scaleworkshop/?version=2.1.0)  
+Pianoteq  
 kontakt
 
 [an interview with Georg Vogel](https://15questions.net/interview/georg-vogel-dsilton-about-alternative-tuning-systems/page-1/)
