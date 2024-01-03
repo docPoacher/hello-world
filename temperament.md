@@ -7,4 +7,8 @@
 unsorted  
 https://www.sfu.ca/sonic-studio-webdav/handbook/Just_Tuning.html  
 https://soundamerican.org/issues/just-intonation/why-how-and-wherefore  
-![jello](https://soundamerican.org/sites/default/files/images/just-doty-table-2.jpg)
+![jello](https://soundamerican.org/sites/default/files/images/just-doty-table-2.jpg)  
+https://www.shawnboucke.com/blog/intonation-is-subjective  
+
+
+[solitaire](https://oddstream.games/gosol/gosol.html)  
