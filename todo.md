@@ -1,3 +1,8 @@
+-[] Call Marty about Japan
+-[] Talk with emily about plans
+-[] apply for bookkeeping positions (ongoing)
+
+
 Shelf
 1. Coat with something
 2. Hang it up
