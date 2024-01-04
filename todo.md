@@ -1,3 +1,4 @@
+
 - [ ] Call Marty about Japan
 - [ ] Talk with emily about plans
 - [ ] apply for bookkeeping positions (ongoing)
