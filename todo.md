@@ -16,6 +16,11 @@ create live usb
 2. Renoise?
 3. 
 
+Sync obsidian and github
+1. I think do this from computer
+2. maybe get an ap i dunno
+
+
 
 
 [delete tweets](https://www.wikihow.com/Delete-All-Tweets#:~:text=Download%20a%20free%20tool%20called,easy%20to%20delete%20all%20tweets.)
