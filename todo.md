@@ -1,3 +1,5 @@
+[rollingstone christian teen jihad](https://www.rollingstone.com/culture/culture-features/teenage-holy-war-videos-of-ron-luce-and-evangelical-jihad-231696/)
+
 
 - [ ] Call Marty about Japan
 - [ ] Talk with emily about plans
