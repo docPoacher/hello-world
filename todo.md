@@ -1,4 +1,5 @@
-[movies](https://x.com/RamblingGroyper/status/1745559499534970976?s=20)
+[learn node ](https://www.reddit.com/r/node/comments/uozxa8/how_should_i_start_learning_the_node_js/)  
+[movies](https://x.com/RamblingGroyper/status/1745559499534970976?s=20)  
 [rollingstone christian teen jihad](https://www.rollingstone.com/culture/culture-features/teenage-holy-war-videos-of-ron-luce-and-evangelical-jihad-231696/)
 
 
