@@ -4,6 +4,8 @@
 
 [Making soap from ash](https://farmingmybackyard.com/homemade-soap-from-ashes/)
 
+[university logic class](https://www.csm.ornl.gov/~sheldon/ds/)
+
 - [ ] Call Marty about Japan
 - [ ] Talk with emily about plans
 - [ ] apply for bookkeeping positions (ongoing)
