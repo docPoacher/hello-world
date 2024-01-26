@@ -2,7 +2,7 @@
 [movies](https://x.com/RamblingGroyper/status/1745559499534970976?s=20)  
 [rollingstone christian teen jihad](https://www.rollingstone.com/culture/culture-features/teenage-holy-war-videos-of-ron-luce-and-evangelical-jihad-231696/)
 
-[Making soap from ash](https://farmingmybackyard.com/homemade-soap-from-ashes/)
+[Making soap from ash](https://farmingmybackyard.com/homemade-soap-from-ashes/)  
 
 [university logic class](https://www.csm.ornl.gov/~sheldon/ds/)
 
