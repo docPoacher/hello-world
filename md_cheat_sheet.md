@@ -2,14 +2,22 @@
 
 
 # # H1  
+
 ## ## H2  
+
 ### ### H3  
 
 **\*\*bold text\*\***  
 *\*italics\**
-  
+~~\~\~strikethrough\~\~~~
+<sub>\<sub\>subscript\<sub\></sub>
+<sup>\<sup\>superscript\<sup\></sup>
+
 >blockquote  
 >what?
+
+- [x] \- \[x \] a check box
+- [ ] \- \[ \] an empty box
 
 lists:
 1. first
@@ -31,9 +39,9 @@ Down arrow (↓) — &darr;
 Degree (°) — &#176;
 Pi (π) — &#960;`
 
-` \`code fits in here\` `  
+` `code fits in here` ` 
 
-``` \`\`\`more code here\`\`\` ```
+``` ```more code here``` ```
 
 \-\-\-Line
 ---
