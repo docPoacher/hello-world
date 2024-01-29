@@ -5,7 +5,7 @@
 ## ## H2
 ### ### H3
 ** **bold text** **
-* \*italics* *
+*\*italics\**
   
 >blockquote  
 >what?
