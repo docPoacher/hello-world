@@ -14,6 +14,16 @@ lists:
     - - second nested
       - - third nested
 
+`Copyright (©) — &copy;
+Registered trademark (®) — &reg;
+Trademark (™) — &trade;
+Euro (€) — &euro;
+Left arrow (←) — &larr;
+Up arrow (↑) — &uarr;
+Right arrow (→) — &rarr;
+Down arrow (↓) — &darr;
+Degree (°) — &#176;
+Pi (π) — &#960;`
 
 `code fits in here`  
 
