@@ -2,8 +2,8 @@
 ## ## H2
 ### ### H3
 ** **bold text** **
-* *italics* *
->blockquote
+* \*italics* *
+>blockquote  
 >what?
 
 lists:
@@ -20,4 +20,5 @@ lists:
 [title](link)
 ![alt text](img.jpg)
 
-   
+colors `rgb(100,0,0)`red?
+
