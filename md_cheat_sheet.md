@@ -9,9 +9,9 @@
 
 **\*\*bold text\*\***  
 *\*italics\**
-~~\~\~strikethrough\~\~~~
-<sub>\<sub\>subscript\<sub\></sub>
-<sup>\<sup\>superscript\<sup\></sup>
+\~\~~~strikethrough~~\~\~
+\<sub\><sub>subscript</sub>\<\/sub\>
+\<sup\><sup>superscript</sup>\<\/sup\>
 
 >blockquote  
 >what?
