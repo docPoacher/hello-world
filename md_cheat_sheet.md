@@ -1,10 +1,11 @@
 |Table 
 
 
-# # H1
-## ## H2
-### ### H3
-**\*\*bold text\*\***
+# # H1  
+## ## H2  
+### ### H3  
+
+**\*\*bold text\*\***  
 *\*italics\**
   
 >blockquote  
@@ -14,11 +15,13 @@ lists:
 1. first
 2. second
 3. third
-  - - first nested
-    - - second nested
-      - - third nested
+  - \- first nested
+    - \- second nested
+      - \- third nested
+	- \- what keeps happening?
 
-`Copyright (©) — &copy;  
+`Copyright (©) — &copy;
+  
 Registered trademark (®) — &reg;  
 Trademark (™) — &trade;  
 Euro (€) — &euro;  
@@ -26,17 +29,18 @@ Left arrow (←) — &larr;
 Up arrow (↑) — &uarr;  
 Right arrow (→) — &rarr;  
 Down arrow (↓) — &darr;  
-Degree (°) — &#176;  
-Pi (π) — &#960;`  
+Degree (°) — &#176;
+Pi (π) — &#960;`
 
-`code fits in here`  
+`\`code fits in here`\`  
 
-  ```more code here```
+```\`\`\`more code here\`\`\````
 
-Line  
+\-\-\-Line
 ---
-[title](link)
+`[title](link)`
+[title](link)  
+`![alt text](img.jpg)`
 ![alt text](img.jpg)
 
-colors `rgb(100,0,0)`red?
 
