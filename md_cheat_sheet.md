@@ -15,13 +15,12 @@ lists:
 1. first
 2. second
 3. third
-  - \- first nested
-    - \- second nested
-      - \- third nested
-	- \- what keeps happening?
+   - \- first nested
+     - \- second nested
+       - \- third nested
+	 - \- what keeps happening?
 
 `Copyright (©) — &copy;
-  
 Registered trademark (®) — &reg;  
 Trademark (™) — &trade;  
 Euro (€) — &euro;  
@@ -32,9 +31,9 @@ Down arrow (↓) — &darr;
 Degree (°) — &#176;
 Pi (π) — &#960;`
 
-`\`code fits in here`\`  
+` \`code fits in here\` `  
 
-```\`\`\`more code here\`\`\````
+``` \`\`\`more code here\`\`\` ```
 
 \-\-\-Line
 ---
