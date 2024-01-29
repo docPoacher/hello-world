@@ -1,8 +1,12 @@
+|Table 
+
+
 # # H1
 ## ## H2
 ### ### H3
 ** **bold text** **
 * \*italics* *
+  
 >blockquote  
 >what?
 
@@ -14,16 +18,16 @@ lists:
     - - second nested
       - - third nested
 
-`Copyright (©) — &copy;
-Registered trademark (®) — &reg;
-Trademark (™) — &trade;
-Euro (€) — &euro;
-Left arrow (←) — &larr;
-Up arrow (↑) — &uarr;
-Right arrow (→) — &rarr;
-Down arrow (↓) — &darr;
-Degree (°) — &#176;
-Pi (π) — &#960;`
+`Copyright (©) — &copy;  
+Registered trademark (®) — &reg;  
+Trademark (™) — &trade;  
+Euro (€) — &euro;  
+Left arrow (←) — &larr;  
+Up arrow (↑) — &uarr;  
+Right arrow (→) — &rarr;  
+Down arrow (↓) — &darr;  
+Degree (°) — &#176;  
+Pi (π) — &#960;`  
 
 `code fits in here`  
 
