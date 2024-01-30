@@ -6,6 +6,8 @@
 
 [university logic class](https://www.csm.ornl.gov/~sheldon/ds/)
 
+[lock terminology](https://www.locksmiths.co.uk/locksmith-terminology-parts-of-locks/)
+
 - [ ] Call Marty about Japan
 - [ ] Talk with emily about plans
 - [ ] apply for bookkeeping positions (ongoing)
