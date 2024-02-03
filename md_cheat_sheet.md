@@ -1,6 +1,10 @@
 \|Table \| column \| third \|  
 \| \-\-\- \| \-\-\- \| \-\-\- |  
-\| cell 1 \| cell2 \| cell 3 \|  
+\| cell 1 \| cell2 \| cell 3 \|
+|Table | column | third |  
+| --- | --- | --- |  
+| cell 1 | cell2 | cell 3 |
+
 ```
 Markdown | Less | Pretty
 --- | --- | ---
