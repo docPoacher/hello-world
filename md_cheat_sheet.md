@@ -1,12 +1,13 @@
 |Table 
+`Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3`
+
 Markdown | Less | Pretty
 --- | --- | ---
 \**Still*\* | \``renders`\` | \*\***nicely**\*\*
 1 | 2 | 3
-
-| \|Table | \| column | \| another \| |
-| --- | --- | --- |
-| data | data | data|
 
 # # H1  
 
