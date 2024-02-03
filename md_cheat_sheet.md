@@ -5,7 +5,7 @@ Markdown | Less | Pretty
 1 | 2 | 3
 
 | \|Table | \| column | \| another \| |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | data | data | data|
 
 # # H1  
