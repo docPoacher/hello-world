@@ -7,4 +7,6 @@ https://www.youtube.com/watch?v=aadsFxTtZ7M
 https://www.ers.usda.gov/amber-waves/2023/june/advancements-in-apple-picking-an-industry-addresses-tight-farm-labor-markets/#:~:text=Harvest%20workers%20can%20be%20paid%20by%20the%20hour,they%20would%20at%20a%20set%20hourly%20wage%20rate.
 
 [a doodle](https://jsfiddle.net/shadowzero27/m15pc3oL/2/)
-  
+
+##drum beats
+https://musescore.com/yeah_music/beats-and-breaks  
