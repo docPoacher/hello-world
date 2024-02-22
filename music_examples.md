@@ -12,3 +12,7 @@ https://www.ers.usda.gov/amber-waves/2023/june/advancements-in-apple-picking-an-
 https://musescore.com/yeah_music/beats-and-breaks  
 https://drumbit.app/  
 https://noisegate.com.au/classic-drum-patterns/  
+
+
+https://bedroomproducersblog.com/2020/04/27/free-kontakt-libraries/
+
