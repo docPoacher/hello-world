@@ -14,5 +14,7 @@ https://drumbit.app/
 https://noisegate.com.au/classic-drum-patterns/  
 
 
-https://bedroomproducersblog.com/2020/04/27/free-kontakt-libraries/
+https://bedroomproducersblog.com/2020/04/27/free-kontakt-libraries/  
 
+Scale workshop  
+[75 equal divisions of 4/1](https://scaleworkshop.plainsound.org/?n=75%20equal%20divisions%20of%204%2F1&l=3B23L4R_9B23L4R_iB23L4R_oB23L4R_rB23L4R_xB23L4R_16B23L4R_1cB23L4R_1fB23L4R_1lB23L4R_1uB23L4R_20B23L4R_23B23L4R&f=64&version=2.3.7)
