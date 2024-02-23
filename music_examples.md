@@ -34,3 +34,6 @@ format cents
 mos 5 7 12 19 31 43 74
 ```  
 [Rank 2 temperament (697.344, 2/1)](https://scaleworkshop.plainsound.org/analysis?n=Rank%202%20temperament%20%28697.344%2C%202%2F1%29&l=29.ba_5e.j3_7o.02l_at.af_dy.i8_g8.01q_jd.9k_lm.kt_os.0v_r1.c5_u6.jy_xc.&c=~-~-~~-~-~-~&f=79.miqdhkcvh&m=1o&version=2.3.7)  
+
+
+everything comes in waves
