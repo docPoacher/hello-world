@@ -37,3 +37,16 @@ mos 5 7 12 19 31 43 74
 
 
 everything comes in waves
+
+[Euler-Fokker genus 45](https://scaleworkshop.plainsound.org/?n=Euler-Fokker%20genus%2045&l=9F8_uFp_5F4_4F3_19Fw_3F2_fF9_fF8_2F1&c=~-~-~~-~-~-~&f=79.miqdhkcvh&m=1o&version=2.3.7)  
+  
+9/8  
+30/25  
+5/4  
+4/3  
+45/32  
+3/2  
+15/9  
+15/8  
+2/1  
+
