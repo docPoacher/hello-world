@@ -50,3 +50,5 @@ everything comes in waves
 15/8  
 2/1  
 
+
+https://scaleworkshop.plainsound.org/?n=Euler-Fokker%20genus%2045&l=iFh_9F8_uFp__5F4_4F3_19Fw_3F2_dF8_fF9__7F4_fF8_2F1&c=~-~-~~-~-~-~&f=7e.eeeeeeeec&m=1o&version=2.3.7
