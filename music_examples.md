@@ -14,6 +14,8 @@ https://drumbit.app/
 https://noisegate.com.au/classic-drum-patterns/  
 
 
+[Stem separation tools](https://musictech.com/guides/buyers-guide/best-stem-separation-tools/)  
+
 https://bedroomproducersblog.com/2020/04/27/free-kontakt-libraries/  
 
 Scale workshop  
