@@ -1,3 +1,5 @@
+NOTES:  It was okay.  EM thought it was too much rosemary which it was even though it wasnt a lot
+
 3 pounds beef chuck, brisket, or round  
 4 celery stalks chopped  
 5 medium carrots chunks  
