@@ -1,22 +1,21 @@
-[learn node ](https://www.reddit.com/r/node/comments/uozxa8/how_should_i_start_learning_the_node_js/)  
-[movies](https://x.com/RamblingGroyper/status/1745559499534970976?s=20)  
-[rollingstone christian teen jihad](https://www.rollingstone.com/culture/culture-features/teenage-holy-war-videos-of-ron-luce-and-evangelical-jihad-231696/)
+- [ ] [how to learn node -reddit ](https://www.reddit.com/r/node/comments/uozxa8/how_should_i_start_learning_the_node_js/)  
+- [ ] [Rambling groyper movie suggestions](https://x.com/RamblingGroyper/status/1745559499534970976?s=20)  
+- [ ] [rollingstone christian teen jihad - aquire the fire and ron luce](https://www.rollingstone.com/culture/culture-features/teenage-holy-war-videos-of-ron-luce-and-evangelical-jihad-231696/)  
+- [ ] [Making soap from ash](https://farmingmybackyard.com/homemade-soap-from-ashes/)  
+- [ ] [university level logic class](https://www.csm.ornl.gov/~sheldon/ds/)  
+- [ ] [lock terminology](https://www.locksmiths.co.uk/locksmith-terminology-parts-of-locks/)  
+- [ ] Clean print head and ink well things
+- [ ] Call adam and explain job stuff
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] .
+- [ ] 
 
-[Making soap from ash](https://farmingmybackyard.com/homemade-soap-from-ashes/)  
-
-[university logic class](https://www.csm.ornl.gov/~sheldon/ds/)
-
-[lock terminology](https://www.locksmiths.co.uk/locksmith-terminology-parts-of-locks/)
-
-- [ ] Call Marty about Japan
-- [ ] Talk with emily about plans
-- [ ] apply for bookkeeping positions (ongoing)
-
-
-
-Shelf
-1. Coat with something
-2. Hang it up
 
 bench thing under front window
 1. get stuff from lowes and build it
@@ -35,12 +34,3 @@ create live usb
 Sync obsidian and github
 1. I think do this from computer
 2. maybe get an ap i dunno
-
-
-
-
-[delete tweets](https://www.wikihow.com/Delete-All-Tweets#:~:text=Download%20a%20free%20tool%20called,easy%20to%20delete%20all%20tweets.)
-
-https://dillinger.io/
-
-
