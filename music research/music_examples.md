@@ -53,4 +53,24 @@ everything comes in waves
 2/1  
 
 
-https://scaleworkshop.plainsound.org/?n=Euler-Fokker%20genus%2045&l=iFh_9F8_uFp__5F4_4F3_19Fw_3F2_dF8_fF9__7F4_fF8_2F1&c=~-~-~~-~-~-~&f=7e.eeeeeeeec&m=1o&version=2.3.7
+https://scaleworkshop.plainsound.org/?n=Euler-Fokker%20genus%2045&l=iFh_9F8_uFp__5F4_4F3_19Fw_3F2_dF8_fF9__7F4_fF8_2F1&c=~-~-~~-~-~-~&f=7e.eeeeeeeec&m=1o&version=2.3.7  
+
+
+https://scaleworkshop.plainsound.org/?l=aF9_aF8_aF7_3F2_aF6_&f=33.3yk5rcyk6&m=x&version=2.3.8  
+10/9  
+10/8  
+10/7  
+3/2  
+10/6  
+111.11hz base  
+
+https://scaleworkshop.plainsound.org/?l=74F6r_aF9_bF9_aF8_4F3_bF8___3F2__aF6_&c=~~-~~~-~~&f=33.3yk5rcyk6&m=x&version=2.3.8  
+256/243  
+10/9  
+11/9  
+10/8  
+4/3  
+11/8  
+3/2  
+10/6  
+  
