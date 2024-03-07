@@ -86,3 +86,6 @@ https://scaleworkshop.plainsound.org/?l=aF9_aF8_aF7_3F2_aF6_&f=33.3yk5rcyk6&m=x&
 
 [Proper A# minor 10 tone 111.11 A - goopis](https://scaleworkshop.plainsound.org/?n=Proper%20A%23%20minor%2010%20tone%20111.11%20A%20-%20goopis&l=74F6r_aF9_bF9_aF8_4F3_aF7_3F2_bF7_aF6_&c=~~-~~~-~~&f=33.3yk5rcyk6&m=x&version=2.3.8)  
 
+[Proper A# minor 10 tone 444.44 A - goopis](https://scaleworkshop.plainsound.org/?n=Proper%20A%23%20minor%2010%20tone%20444.44%20A%20-%20goopis&l=74F6r_aF9_bF9_aF8_4F3_aF7_3F2_bF7_aF6_&f=cc.fu8n1fu8n&version=2.3.8)  
+
+[Proper A# minor 10 tone 432.1 A - goopis](https://scaleworkshop.plainsound.org/?n=Proper%20A%23%20minor%2010%20tone%20432.1%20A%20-%20goopis&l=74F6r_aF9_bF9_aF8_4F3_aF7_3F2_bF7_aF6_&f=c0.3lllllllo&version=2.3.8)  
