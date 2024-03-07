@@ -64,7 +64,7 @@ https://scaleworkshop.plainsound.org/?l=aF9_aF8_aF7_3F2_aF6_&f=33.3yk5rcyk6&m=x&
 10/6  
 111.11hz base  
 
-https://scaleworkshop.plainsound.org/?l=74F6r_aF9_bF9_aF8_4F3_bF8___3F2__aF6_&c=~~-~~~-~~&f=33.3yk5rcyk6&m=x&version=2.3.8  
+[primordial A# minor](https://scaleworkshop.plainsound.org/?l=74F6r_aF9_bF9_aF8_4F3_bF8___3F2__aF6_&c=~~-~~~-~~&f=33.3yk5rcyk6&m=x&version=2.3.8)  
 256/243  
 10/9  
 11/9  
@@ -83,3 +83,6 @@ https://scaleworkshop.plainsound.org/?l=74F6r_aF9_bF9_aF8_4F3_bF8___3F2__aF6_&c=
 3/2
 10/7
 10/6?? 
+
+[Proper A# minor 10 tone 111.11 A - goopis](https://scaleworkshop.plainsound.org/?n=Proper%20A%23%20minor%2010%20tone%20111.11%20A%20-%20goopis&l=74F6r_aF9_bF9_aF8_4F3_aF7_3F2_bF7_aF6_&c=~~-~~~-~~&f=33.3yk5rcyk6&m=x&version=2.3.8)  
+
