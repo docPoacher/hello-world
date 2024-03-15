@@ -63,6 +63,10 @@ Learn:
 
 [Cambridge Latin Course Unit 1 (Stages 1-12) - latintutorial](https://www.youtube.com/playlist?list=PLI76N29qybf8a9pkSzD9X0PX3a3PgO2_-)  
 
+Fiddle:
+[Traditional Irish & Cape Breton Music: From a Distant Shore](https://www.youtube.com/watch?v=aJ7Vih8Ifl8&list=OLAK5uy_lerodva1PbVbmnh2xw4lpiTZW1iGImL8M)
+
+
 
 
 
