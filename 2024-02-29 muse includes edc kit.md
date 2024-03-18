@@ -74,3 +74,24 @@ Cameras
  
   - 
   - First-aid, flashlight, compass, helmet, helmet light, camera, audio recorder, batteries for everything, kneepads/elbowpads, gloves, hiking boots, extra socks, wading boots, poisonous gas detector, Journal / Sketchpad, measuring tape,
+
+My Current kit:
+  - Hot glue stick
+  - tiny lighter
+  - sewing kit
+  - ibeuprophen
+  - razor
+  - string
+  - can opener
+  - aligator clip
+  - nail clippers
+  - rachet with tiny phillips and flathead
+  - bandaids
+  - wax paper
+  - lock picks
+  - zipties
+  - dick
+  - paperclip
+  - 2 nails (one headed one brad)
+  - emery board
+  - 
