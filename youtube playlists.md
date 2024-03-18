@@ -32,6 +32,10 @@ Albums:
 
 [Specimen - Batastrophe (FULL EP) Abigail Perdue](https://www.youtube.com/playlist?list=PLUJXUnTA4ULi3MyluxKMbQJ3mPfbJJ65f)  
 
+[Verona Downs - I Listen Thru All the Breaking Oceans (shoegazy)](https://www.youtube.com/watch?v=GzoBghsTK04&list=OLAK5uy_lqa0j6eELHWgoqqHU3FuyhJsLC5fboWwM)  
+
+
+
 
 
 
