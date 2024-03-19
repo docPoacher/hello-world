@@ -26,7 +26,7 @@ However, I am finding it difficult to make music and difficult to become excited
 
 
 ### Things to look at later today  
-[Rikagaku Flourescent chalk](https://www.jetpens.com/Rikagaku-Dustless-Fluorescent-Chalk-6-Color-Set/pd/7077)  
+- [x] [Rikagaku Flourescent chalk](https://www.jetpens.com/Rikagaku-Dustless-Fluorescent-Chalk-6-Color-Set/pd/7077)  
 [Spelunking gear](https://undergroundeureka.com/spelunking-gear.php)  
 - lists the following things for caving pack
 ### Underground Urban Exploration Caving complete kit
@@ -66,7 +66,10 @@ Cameras
   - Chalk - ORDER SOME ALREADY WHAT IS WRONG WITH YOU.  They have flourescent and glow in the dark varieties.
   - Plastic bags.  Ziplock should be water proof.  Put your electronics in it if in a wet area.  Put ur food in it, too.
   - Swiss Army Knife - Knive is obvious, however, if this is true urban exploring you will probably want some crazy stuff like screw drivers, snips, maybe a wrench, pliers
-  - 
+  - Heat source - shake to activate heat packs or i guess those crack to activate.  fuel activated ones might cause a fire or explosion if used just for heating
+  - WATER - need a good solution for this.  I should try the wine bags.
+  - Snacks - BANNOCK BREAD.  need protein as well.  maybe whey? Beef jerkey is best, of course.
+  - Batteries for ur things
   - 
 
   
