@@ -36,7 +36,10 @@ Albums:
 
 
 
+Baroque Music
 
+Peter Watchorn
+[Bach: Das Wohltemperierte Clavier, Book 1, BWV 846-869](https://www.youtube.com/playlist?list=OLAK5uy_nMCKDLUyXi2jHUwm9agZ9bQvZu1JndmZE)
 
 
 Mixes:  
@@ -57,6 +60,14 @@ Variety:
 [Short 'n' Sweet(montymintypie)](https://www.youtube.com/playlist?list=PLDAt_4uwQO2LJnZZ7ZKQpEZBqWxYVZu_x)  
 
 [Instant Regret Clicking this Playlist (EpicDonutDude)](https://www.youtube.com/playlist?list=PLv3TTBr1W_9tppikBxAE_G6qjWdBljBHJ)  
+
+[Xtranormal - The Bank](https://www.youtube.com/playlist?list=PLADSftXHsWo6kaIi9dUiHb2uu-w3OAUB_)
+
+Classics:
+
+[The Yogscast -Minecraft Survival Multiplayer/ SoI](https://www.youtube.com/playlist?list=PLF60520313D07F366)
+
+
 
 
 Learn:  
