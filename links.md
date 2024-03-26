@@ -2,7 +2,7 @@
 
 
 [Spring Steel how to make quora](https://www.quora.com/How-do-you-treat-steel-to-make-spring-steel-products#:~:text=at%20Ashok%20Leyland-,At%20its%20simplest%2C%20you%20shape%20the%20metal%20(in%20its%20normal,%2F50%20antifreeze%2C%20or%20oil.)
-<detail><summary>one response listing steps of making spring steel from a manufacturing process</summary>Ananka Fasteners
+<details><summary>one response listing steps of making spring steel from a manufacturing process</summary>Ananka Fasteners
 IndiaAuthor has 3.1K answers and 932.4K answer viewsNov 23
 To produce spring steel, a specific type of steel known for its elastic properties and ability to return to its original shape after deformation, a common method involves heat treatment. The process typically includes the following steps:
 
@@ -36,4 +36,4 @@ To produce spring steel, a specific type of steel known for its elastic properti
 
 The specific temperatures and durations for annealing, quenching, and tempering vary depending on the desired properties of the spring steel and the alloy used. The goal is to achieve a balance between hardness and flexibility, allowing the steel to exhibit the necessary spring characteristics.
 
-It's essential to note that the heat treatment process for spring steel requires precise control of temperatures and cooling rates to achieve the desired mechanical properties. The exact procedures may vary based on the specific requirements of the application and the type of spring steel being produced.</detail>
+It's essential to note that the heat treatment process for spring steel requires precise control of temperatures and cooling rates to achieve the desired mechanical properties. The exact procedures may vary based on the specific requirements of the application and the type of spring steel being produced.</details>
