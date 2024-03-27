@@ -1,3 +1,5 @@
+https://courses.lumenlearning.com/suny-arthistory2/chapter/berninis-david/
+
 Catalogue of Illustrations
 
 Abbreviations:
@@ -11,38 +13,25 @@ Hibbard. Bernini: H. Hibbard, Bernini (London and Baltimore, 1965) Rosenberg. Re
 Wittkower, Bernini: Rudolf Wittkower, Gian Lorenzo Bernini. The Sculptor of the Roman Baroque, rev. ed. (London, 1966)
 
 1. THE DESCENT FROM THE CROSS. By Peter Paul Rubens, 1611-12. Oil on panel. 420 x 310 cm. (central panel of triptych). Antwerp, Cathedral. (Photo- graph: A.C.L.-Bruxelles).
+The triptych was commissioned by the Guild of Harquebusiers for their altar in the Cathedral. An oil sketch for the central panel is in the Courtauld Institute Galleries in London. The wings were not delivered until 1614. Lit: J. R. Martin: Rubens: The Antwerp Altarpieces. The Raising of the Cross. The Descent from the Cross, 1969: F. Baudouin, in Rubens before 1620. ed. J. R. Martin, 1972. 59-62.
 
-The triptych was commissioned by the Guild of Harquebusiers for their altar
-
-in the Cathedral. An oil sketch for the central panel is in the Courtauld Institute Galleries in London. The wings were not delivered until 1614. Lit: J. R. Martin: Rubens: The Antwerp Altarpieces. The Raising of the Cross. The Descent from the Cross, 1969: F. Baudouin, in Rubens before 1620. ed.
-
-J. R. Martin, 1972. 59-62. 2. THE DEPOSITION. By Francesco Salviati. c. 1547. Oil on panel, 430 x 260 cm. Florence, Museo di S. Croce. (Photograph: Alinari)
-
+2. THE DEPOSITION. By Francesco Salviati. c. 1547. Oil on panel, 430 x 260 cm. Florence, Museo di S. Croce. (Photograph: Alinari)
 Painted for the Dini chapel in S. Croce. The frame is original. Lit: J. Shearman: Mannerism, 1967. 101: S. J. Freedberg: Painting in Italy 1500-1600, 1970. 303-4-
 
-. THE FOUNTAIN OF THE FOUR RIVERS. By Gian Lorenzo Bernini, 1648-51. 3 Travertine and marble. Rome. Piazza Navona. (Photograph: Alinari)
-
+3. THE FOUNTAIN OF THE FOUR RIVERS. By Gian Lorenzo Bernini, 1648-51.
+ Travertine and marble. Rome. Piazza Navona. (Photograph: Alinari)
 Commissioned by Pope Innocent X Pamphili. The giant marble figures of the four rivers were executed by assistants from Bernini's design: Danube [Fig. 1] is the work of Antonio Raggi.
-
 Lit: Wittkower, Bernini. 30-31, 219-20: Hibbard, Bernini. 118-23.
 
 4. NEPTUNE FOUNTAIN. By Bartolomeo Ammanati and assistants, 1560-75. Bronze and marble. Florence, Piazza Signoria. (Photograph: Alinari)
-
-The great block of marble had already been defaced by Ammanati's rival Bandinelli, so that it was impossible for the sculptor to represent Neptune with his arm raised in a commanding gesture as ruler of the sea. Illustration 5 shows one of the groups of bronze figures at the corners of the basin.
-
-Lit: B. H. Wiles: The Fountains of Florentine Sculptors and their Followers from Donatello to Bernini, 1933. 50-4, 117-19: J. Pope-Hennessy: Italian High Renaissance and Baroque Sculpture, 2nd ed. 1970. 74-6.
+The great block of marble had already been defaced by Ammanati's rival Bandinelli, so that it was impossible for the sculptor to represent Neptune with his arm raised in a commanding gesture as ruler of the sea. Illustration 5 shows one of the groups of bronze figures at the corners of the basin.  Lit: B. H. Wiles: The Fountains of Florentine Sculptors and their Followers from Donatello to Bernini, 1933. 50-4, 117-19: J. Pope-Hennessy: Italian High Renaissance and Baroque Sculpture, 2nd ed. 1970. 74-6.
 
 5. Detail of 4. (Photograph: Alinari)
 
 6. S. ANDREA AL QUIRINALE. By Gian Lorenzo Bernini. 1658-70. Rome. (Photograph: Anderson)
+Commissioned by Cardinal Camillo Pamphili, nephew of Pope Innocent X. for the Jesuit novices on the Quirinal. The façade exhibits some similarities to that designed by Pietro da Cortona for S. Maria della Pace [153]. especially in the semicircular portico on free-standing columns and in the interplay of con- cave and convex forms. The oval plan is unusual in that the long axis lies parallel to the façade. For the interior see No. 154. Lit: R. Wittkower: Art and Architecture in Italy 1600-1750, rev. ed. 1973. 181-4: Hibbard. Bernini. 144-8.
 
-Commissioned by Cardinal Camillo Pamphili, nephew of Pope Innocent X. for the Jesuit novices on the Quirinal. The façade exhibits some similarities to that designed by Pietro da Cortona for S. Maria della Pace [153]. especially in the semicircular portico on free-standing columns and in the interplay of con- cave and convex forms. The oval plan is unusual in that the long axis lies parallel to the façade. For the interior see No. 154.
-
-Lit: R. Wittkower: Art and Architecture in Italy 1600-1750, rev. ed. 1973. 181-4: Hibbard. Bernini. 144-8.
-
-313
-
-64. 5. ANDREA SI QUIRINALE. PLAN (From Insignium Romae Templorum Prospectus. 1684).
+5. ANDREA SI QUIRINALE. PLAN (From Insignium Romae Templorum Prospectus. 1684).
 
 7.5. ANDREA Mayer) FLAMINIA. By Vignola, 1550-53. Rome. (Photograph: Courtesy lise Built for Pope Julius III as part of the complex of the Villa Giulia.
 
@@ -50,36 +39,32 @@ Lit: M. Walcher Casotti: Il Vignola, 1960. 1, 64-6, 150-51: H. L. Heydenreich an
 
 JA. S. ANDREA IN VIA FLAMINA. PLAN (Penguin Books),
 
-8. THE DEATH OF THE VIRGIN. By Caravaggio, 1605-6. Oil on canvas, 369 x 245 cm. Paris, Louvre. (Photograph: Réunion des Musées Nationaux) Painted for a chapel in the Roman church of S. Maria della Scala but re- jected by the fathers as being too vulgar. Despite this clerical disapproval, Caravaggio's altarpiece was greatly admired by the painters in Rome and in 1607 was purchased by the Duke of Mantua, on the recommendation of no
-
-less an artist than Rubens. Lit: W. Friedlaender: Caravaggio Studies, 1955. 126-7, 195-8.
+8. THE DEATH OF THE VIRGIN. By Caravaggio, 1605-6. Oil on canvas, 369 x 245 cm. Paris, Louvre. (Photograph: Réunion des Musées Nationaux) Painted for a chapel in the Roman church of S. Maria della Scala but re- jected by the fathers as being too vulgar. Despite this clerical disapproval, Caravaggio's altarpiece was greatly admired by the painters in Rome and in 1607 was purchased by the Duke of Mantua, on the recommendation of no less an artist than Rubens. Lit: W. Friedlaender: Caravaggio Studies, 1955. 126-7, 195-8.
 
 9. VENUS AND ADONIS. By Peter Paul Rubens, c. 1635. Oil on canvas, 197.2 x 241.6 cm. New York, Metropolitan Museum of Art (Gift of Harry Payne Bingham. 1937). (Photograph: Museum)
 
-The painting depends, as Panofsky has shown (Problems in Titian. 1969. 154n.), on Titian's Leave-taking of Adonis in the Prado, of which Rubens had made a copy.
+The painting depends, as Panofsky has shown (Problems in Titian. 1969. 154n.), on Titian's Leave-taking of Adonis in the Prado, of which Rubens had made a copy. Lit: J.-A. Goris and J. S. Held: Rubens in America, 1947. 38. 
 
-Lit: J.-A. Goris and J. S. Held: Rubens in America, 1947. 38. 10. SALT-CELLAR. By Georg Petel, c. 1627-8. Ivory, with silver-gilt base and salt receptacle. 44 cm. high. Stockholm, Royal Palace. (Photograph: Sven Nilsson)
+10. SALT-CELLAR. By Georg Petel, c. 1627-8. Ivory, with silver-gilt base and salt receptacle. 44 cm. high. Stockholm, Royal Palace. (Photograph: Sven Nilsson)
+[Georg Petel after Salt cellar with the Triumph of Venus, dated 1628
+Stockholm, private collection Royal Collections Sweden, inv./cat.nr. S.S.143](https://dulwich-picture-gallery-ii.rkdstudies.nl/after-rubens-/peter-paul-rubens-dpg264/)
 
-The cylindrical ivory carving represents the triumph of the sea-born Venus.
 
-who is accompanied by a Triton and three nymphs. The salt-cellar, which was
-
-executed by Petel from a design by Rubens, is mentioned in the inventory of Rubens's estate drawn up in 1640. Lit: K. Feuchtmayr. A. Schädler, N. Lieb and T. Müller: Georg Petel 1601/2-1634. 1973.98-102.
+The cylindrical ivory carving represents the triumph of the sea-born Venus. 
+who is accompanied by a Triton and three nymphs. The salt-cellar, which was executed by Petel from a design by Rubens, is mentioned in the inventory of Rubens's estate drawn up in 1640. Lit: K. Feuchtmayr. A. Schädler, N. Lieb and T. Müller: Georg Petel 1601/2-1634. 1973.98-102.
 
 11 . THE ARCADIAN SHEPHERDS. By Nicolas Poussin, c. 1640. Oil on canvas, 85 x 121 cm. Paris, Louvre. (Photograph: Réunion des Musées Nationaux)
 
 The best exposition of the subject is by E. Panofsky, in Philosophy and History. Essays presented to Ernst Cassirer, 1936. 223-54 (see also his Meaning in the Visual Arts, 1955. 295-320). Panofsky points out that the painting presents a more classical and more 'philosophical interpretation of the theme of Et in Arcadia Ego than that seen in Poussin's earlier version of the subject now at Chatsworth. Whereas in the Chatsworth picture there is an element of surprise as the shepherds come unexpectedly upon the tomb, the Louvre canvas shows them absorbed in calm discussion and meditation on the idea of mortality. The dating of the picture is a matter of dispute: the arguments are sum- marized by Blunt (Poussin, 1966. 80-81), who would himself prefer to place
 
-it as late as the 1650s. 12. CARDINAL DE BOUILLON. By Hyacinthe Rigaud, 1708. Oil on canvas. 274 x 217 cm. Perpignan, Musée Rigaud. (Photograph: Lauros-Giraudon)
+it as late as the 1650s. 
 
+12. CARDINAL DE BOUILLON. By Hyacinthe Rigaud, 1708. Oil on canvas. 274 x 217 cm. Perpignan, Musée Rigaud. (Photograph: Lauros-Giraudon)
 The Baroque state portrait in its ultimate and most opulent form. Cardinal de Bouillon (1644-1715). Dean of the Sacred College, is represented at the opening of the Porta Santa of St Peter's in Rome in the year 1700. The children posing as infant angels are portraits of members of the Cardinal's family. La Tour d'Auvergne.
 
 1745-52. ii. 408. Lit: A. 1. Dezaller d'Argenville: Abrégé de la vie des plus fameux peintres,
 
-1174 MONEY-CHANGER, By Walter Steinkoppel. 32 x 42 cm. Berlin-Dahlem, Gemäldegalerie. (Photograph: Walter Steinkopf) Berlearly inspired by the candlelight pictures of Honthorst (see No. 40 below), K. Bauch interprets the picture as a representation of Avarice (Der junge
-
-Rembrandt und seine Zeit. 1960. 139).
-
+1174 MONEY-CHANGER, By Walter Steinkoppel. 32 x 42 cm. Berlin-Dahlem, Gemäldegalerie. (Photograph: Walter Steinkopf) Berlearly inspired by the candlelight pictures of Honthorst (see No. 40 below), K. Bauch interprets the picture as a representation of Avarice (Der junge Rembrandt und seine Zeit. 1960. 139).
 Lit: Rosenberg. Rembrandt. 308, 321; Bredius/Gerson. 587.
 
 14. THE SUPPER AT EMMAUS. By Rembrandt 1648, Oil on panel. 68 x 65 cm. Paris, Louvre. (Photograph: Réunion des Musées Nationaux) The subject was treated by Rembrandt in four paintings and two etchings. On the iconography see W. Stechow. in Zeitschrift für Kunstgeschichte, 1934.
@@ -134,15 +119,9 @@ Lit: J. R. Martin: The Farnese Gallery, 1965. 69-80, 89-90, 190-230: D. Posner: 
 
 Study from the model for one of the seated ignudi in the coving of the vault.
 
-Lit: J. R. Martin: The Farnese Gallery, 1965. 221-2. 264. 23. DOMESTIC SCENE. By Annibale Carracci, c. 1585. Pen and black ink. grey
+Lit: J. R. Martin: The Farnese Gallery, 1965. 221-2. 264. 
 
-wash. 32.6 x 23.1 cm. New York. Metropolitan Museum (Dick Fund and
-
-Rogers Fund. 1972). (Photograph: Villani) Formerly in the Ellesmere Collection. The woman is warming her child's
-
-315
-
-night-dress before a fire.
+23. DOMESTIC SCENE. By Annibale Carracci, c. 1585. Pen and black ink. grey wash. 32.6 x 23.1 cm. New York. Metropolitan Museum (Dick Fund and Rogers Fund. 1972). (Photograph: Villani) Formerly in the Ellesmere Collection. The woman is warming her child's night-dress before a fire.
 
 Lit: D. Mahon in exh. cat. Mostra dei Carracci. Disegni, 1963. 152-31 D. Posner, Annibale Carracci, 1971. 1, 18-19.
 
@@ -170,7 +149,10 @@ Lit: F. Saxl in Philosophy and History. Essays presented to Ernst Cassirer, 1936
 
 There are good accounts of the Baldacchino in Wittkower, Bernini, 189-90 and Hibbard, Bernini. 75-80. For a fuller documentary and iconographical
 
-analysis, see L. Lavin: Bernini and the Crossing of St Peter's, 1968. 28. THE DRINKERS (THE TRIUMPH OF BACCHUS). By Diego Velazquez 1628-9. Oil on canvas, 165 x 225 cm. Madrid, Prado. (Photograph: Anderson) The peasants in this early mythological subject would not be out of place
+analysis, see L. Lavin: Bernini and the Crossing of St Peter's, 1968. 
+
+28. THE DRINKERS (THE TRIUMPH OF BACCHUS). By Diego Velazquez 1628-9. Oil on canvas, 165 x 225 cm. Madrid, Prado. (Photograph: Anderson) The peasants in this early mythological subject wou![Museo_borghese,_sala_del_gladiatore,_g l _bernini,_verità_svelata,_1645-52,_02](https://github.com/docPoacher/hello-world/assets/111644235/05305c32-e0c4-47d5-97bd-7ad4b4522919)
+ld not be out of place
 
 in a genre painting. Lit: J. López-Rey: Velazquez. A Catalogue Raisonné of his Oeuvre, 1963. 43-5.
 
@@ -188,11 +170,15 @@ The innate classicism of Louis Le Nain reveals itself both in the composition an
 
 32. CHRIST OF CLEMENCY. By Juan Martinez Montañés , 1603-6. Polychrome wood, 190 cm. high. Seville, Cathedral. (Photograph: Mas) Commissioned on 5 April 1603 by Mateo Vázquez de Leca, archdeacon of
 
-Carmona. The final payment to Montañés was made on 9 April 1606. In addition to showing the Saviour alive, and with eyes open [33], the Crucifix is unusual in having four nails instead of three. Although each foot is attached to the wood by a single nail, the legs are not parallel but are crossed one over the other. Montañés explained to Francisco Pacheco that he took this detail from the Revelations of St Bridget, who describes precisely how the Saviour was nailed to the cross.
+Carmona. The final payment to Montañés was made on 9 April 1606. In addition to showing the Saviour alive, and with eyes open 
+
+[33], the Crucifix is unusual in having four nails instead of three. Although each foot is attached to the wood by a single nail, the legs are not parallel but are crossed one over the other. Montañés explained to Francisco Pacheco that he took this detail from the Revelations of St Bridget, who describes precisely how the Saviour was nailed to the cross.
 
 Lit: B. G. Proske: Juan Martínez Montañés, 1967. 39-43: José Hernández Díaz in exh. cat. Martínez Montañés (1568-1649) y la escultura andaluza de su
 
-tiempo, 1969. 40. 33. Detail of 32. CALLING OF ST MATTHEW. By Caravaggio, c. 1598-1600. Oil on
+tiempo, 1969. 40. 
+
+33. Detail of 32. CALLING OF ST MATTHEW. By Caravaggio, c. 1598-1600. Oil on
 
 34. THE canvas, 338 x 348 cm. Rome, S. Luigi dei Francesi, Contarelli Chapel. (Photo- graph: Alinari)
 
@@ -222,11 +208,11 @@ Beuningen. 37. LANDSCAPE WITH BUNS 15.3 Rotter Hendrick Goltzius, 1603 Pen and P
 
 IL 381: W. Stechow: Dutch Landscape Painting of the Seventeenth Century, 1966 Lat: E. K. 1. Remicek Meadscape Painting Hendrick Goltzius, 1961. L 404: 1734-5-
 
-38. BASKET OF FRUIT. By Caravaggiograp1596.doil on canvas, 46 x 59 cm. Milan. Pinacoteca Ambrosiana. (Photograph: Anderson) Presented to the Accademia Ambrosiana by Cardinal Federico Borromeo, to whom it may have been given by Cardinal Francesco del Monte, one of the artist's Roman patrons. This work, if it is not a fragment of a larger picture, is
+38. BASKET OF FRUIT. By Caravaggio grap 1596.doil on canvas, 46 x 59 cm. Milan. Pinacoteca Ambrosiana. (Photograph: Anderson) Presented to the Accademia Ambrosiana by Cardinal Federico Borromeo, to whom it may have been given by Cardinal Francesco del Monte, one of the artist's Roman patrons. This work, if it is not a fragment of a larger picture, is
 
 Caravaggio's only independent still life. Lit: W. Friedlaender: Caravaggio Studies, 1955. 142-4.
 
-19. PEASANTS FIGHTING OVER CARDS. By Adriaen Brouwer. c. 1632. Oil on panel 33 x 49 cm. Munich. Alte Pinakothek. (Photograph: Museum) Brouwer's paintings of low-life genre scenes had a decisive influence on the
+39. PEASANTS FIGHTING OVER CARDS. By Adriaen Brouwer. c. 1632. Oil on panel 33 x 49 cm. Munich. Alte Pinakothek. (Photograph: Museum) Brouwer's paintings of low-life genre scenes had a decisive influence on the
 
 work of Adriaen van Ostade in Holland and David Teniers in Flanders. Lit: G. Knuttel: Adriaen Brouwer. The Master and his Work. 1962. 107-10.
 
@@ -238,13 +224,7 @@ in the repertory of Dutch genre painting. Lit: J. R. Judson: Gerrit van Honthors
 
 The title-page refers to the following passage in the Novum Organum: "Nor should we neglect the prophecy of Daniel concerning the last days of the world: "Many shall run to and fro. and knowledge shall be increased" [Daniel xii. 4]. thus plainly hinting and suggesting that Fate (which is Provi- dence) would cause the circuit of the globe (which by means of so many distant voyages is now accomplished or at least going forward) and the increase of knowledge to happen at the same time' (I. Aphorism 93).
 
-42. DRESSING-CASE. Dutch, 1665-79. Silver, 6.6 cm. high. 25 cm. long. The Hague. Collection Haags Gemeentemuseum. (Photograph: Museum) Part of a silver toilet service, each piece of which bears the monogram
-
-van Gulick. Albrecht van Wingaerden, one by Jozef Haverstam and one by Hermanus
-
-ABVE. The designer is unknown, but two pieces are signed by the silversmith
-
-Lit: J. W. Frederiks: Dutch Silver, Embossed Ecclesiastical and Secular Plate from the Renaissance until the End of the Eighteenth Century, 1961. 79-80.
+42. DRESSING-CASE. Dutch, 1665-79. Silver, 6.6 cm. high. 25 cm. long. The Hague. Collection Haags Gemeentemuseum. (Photograph: Museum) Part of a silver toilet service, each piece of which bears the monogram van Gulick. Albrecht van Wingaerden, one by Jozef Haverstam and one by Hermanus ABVE. The designer is unknown, but two pieces are signed by the silversmith Lit: J. W. Frederiks: Dutch Silver, Embossed Ecclesiastical and Secular Plate from the Renaissance until the End of the Eighteenth Century, 1961. 79-80.
 
 43- THE COSIMO PANEL. By Grinling Gibbons, 1682. Limewood, about 5×3
 
@@ -258,8 +238,13 @@ the paintings of the same subject by Rubens (Cassel) and Rembrandt (Dublin). A. 
 
 Lit: H. Weizsäckeri Ada Barisheimer, der Maler von Frankfurt, 1936 and 1953. 35: Dutch Landscape Painting Architecture in Central and
 
-59. Painting of the Seventeenth Centuryurope, 1965. POURING MILK. By Jan Vermeer, 45.4 MAIDSERVANT c. 1660. Oil on canvas, evidence for Vermeer's museum (Photograph: Mus660.0 The evidence for Vermeer's use of the camera obscura is examined by C Seymour Ir in Art Bulletin, 1964- 323-31, and D. A. Fink in Art Bulle hy
+59. Painting of the Seventeenth Centuryurope, 1965.
 
+
+
+   POURING MILK. By Jan Vermeer,
+
+45.4 MAIDSERVANT c. 1660. Oil on canvas, evidence for Vermeer's museum (Photograph: Mus660.0 The evidence for Vermeer's use of the camera obscura is examined by C Seymour Ir in Art Bulletin, 1964- 323-31, and D. A. Fink in Art Bulle hy
 1971.493-505. : L. Gowing: Vermeer, 1952. 109-12.
 
 4. TWO PEASANTIC 19 27 nos, By Jacob van Ruisdael, c. 1650-55. Biching and state, 19 x 27 cm. Princeton University Art Museum. (Photo graph: Barbara Glen)
@@ -273,13 +258,11 @@ to portray the struggle for life of a great tree. Lat: M. E. Datuit: Manuel de l
 Lit: D. Mahon in Art de France, 1, 1961. 129-32: Blunt, Poussin, 1966. 108-9; Blunt, Poussin, 1967. 165. 285.
 
 48. SELF-PORTRAIT, OPEN-MOUTHED AND STARING. By Rembrandt, 1630. Etching, and state. 5.1 x 4.6 cm. New York Pierpont Morgan Library. (Photograph: Library)
-
 One of a number of studies of expression in which Rembrandt used himself as a model.
-
 Lit: Rosenberg. Rembrandt. 38-9; C. White and K. G. Boon: Rembrandt's
+Etchings, 1969. 1. 147.
 
-Etchings, 1969. 1. 147. 19. DAVID (detail). By Gian Lorenzo Bernini, 1623-4. Marble, 170 cm. high. Rome, Galleria Borghese. (Photograph: Anderson)
-
+49. DAVID (detail). By Gian Lorenzo Bernini, 1623-4. Marble, 170 cm. high. Rome, Galleria Borghese. (Photograph: Anderson)
 One of the early works made for Cardinal Scipione Borghese. Baldinucci relates that the sculptor studied the reflection of his own face in a mirror in order to achieve the appropriate expression.
 
 Lit: Wittkower, Bernini. 5-6, 182-3.
