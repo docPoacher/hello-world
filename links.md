@@ -39,3 +39,4 @@ The specific temperatures and durations for annealing, quenching, and tempering 
 It's essential to note that the heat treatment process for spring steel requires precise control of temperatures and cooling rates to achieve the desired mechanical properties. The exact procedures may vary based on the specific requirements of the application and the type of spring steel being produced.</details>  
 
 
+https://www.reddit.com/r/crazysexycool/comments/1bi0ui5/juggling_takes_balls/?utm_source=share&utm_medium=web2x&context=3
