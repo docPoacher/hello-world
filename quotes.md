@@ -1,5 +1,7 @@
 Hangin like a loose tooth
 
+Put a blanket on it - (when you sear something before baking)
+
 ### Evolution  
 [Louis Pasteur’s Views on Creation, Evolution, and the Genesis of Germs](https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=1143&context=bio_chem_fac_pubs)  
 
