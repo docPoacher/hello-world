@@ -21,7 +21,7 @@
 - [ ] Beyond Oasis
 - [ ] Phantasy Star
 - [ ] Phantasy Star IV
- - [ ] Phantasy Star II 
+- [ ]  Phantasy Star II 
 - [ ] Shining Force II
 - [ ] Gunstar Heros
 - [ ] ToeJam & Earl
@@ -34,8 +34,8 @@
 - [ ] Landstalker: The Treasures of King Nole
 - [ ] Jurassic Park games
 - [ ] Alisia Dragoon
- - [ ] Zero Wing
- - [ ] Starflight
+- [ ]  Zero Wing
+- [ ]  Starflight
 - [ ] El Viento
 - [ ] Ranger X
 - [ ] M.U.S.H.A.
@@ -43,7 +43,7 @@
 - [ ] Dune II: Battle for Arrakis
 - [ ] Flashback: The Quest for Identity
 - [ ] Warsong
- - [ ] Wonder Boy in Monster World
+- [ ]  Wonder Boy in Monster World
 - [ ] The Adventures of Batman & Robin
 - [ ] Granada
 - [ ] Columns
@@ -55,7 +55,7 @@
 - [ ] General Chaos
 - [ ] Lightning Force
 - [ ] Light Crusader
- - [ ] True Lies
+- [ ]  True Lies
 - [ ] Outrunners
 - [ ] 
 - [ ] 
