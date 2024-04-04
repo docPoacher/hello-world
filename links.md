@@ -1,5 +1,7 @@
 [3d printed flute based off Terry McGee's measurements](https://www.myminifactory.com/object/3d-print-irish-d-flute-118831) one bed 23 hours on BIQU Thunder
 
+https://www.greenmatters.com/food/chlormequat-free-oats
+
 https://www.reddit.com/r/microtonal/comments/jvk1pw/mandelbit_microtonal_chiptune/
 
 [Spring Steel how to make quora](https://www.quora.com/How-do-you-treat-steel-to-make-spring-steel-products#:~:text=at%20Ashok%20Leyland-,At%20its%20simplest%2C%20you%20shape%20the%20metal%20(in%20its%20normal,%2F50%20antifreeze%2C%20or%20oil.)
