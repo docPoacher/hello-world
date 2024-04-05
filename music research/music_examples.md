@@ -1,6 +1,8 @@
 Hugo Kant 18 or so minutes in it has a good drum loop  
 [Hugo Kant](https://www.youtube.com/watch?v=-tOSh9bDh00&t=1010s)
 
+[examples of microtonal music](https://www.reddit.com/r/microtonal/comments/11jvrrb/i_want_to_experience_microtonal_music_but_dont/)
+
 https://www.youtube.com/watch?v=aadsFxTtZ7M
 59:29 Roots Inspiration Meets Al Breadwinner "Cant Stop the Times"
 
