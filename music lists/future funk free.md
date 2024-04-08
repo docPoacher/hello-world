@@ -7,3 +7,8 @@ shiruetto:
 - https://shiruetto.bandcamp.com/track/rock-out
 - 
 
+https://vantagenoise.bandcamp.com/
+https://neomotel.bandcamp.com/track/240z-feat-devnnk
+https://crystalcola.bandcamp.com/track/g-l-o-w
+
+
