@@ -15,6 +15,7 @@ Maura seats:   6C  10B
     
 Maura seats:  12D  8A  
 </details>
+
 ___
 
 ## April 22 Andy Arrives at 16:10
