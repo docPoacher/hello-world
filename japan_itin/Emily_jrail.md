@@ -8,9 +8,9 @@ Tap or Click arrows to expand trip details:
 Maura seats:   6C  10B
 </details>
 
-
-<details> <summary>
 ## April 22 Andy Arrives at 16:10
+<details> <summary>
+ANDY TOKYO -> KYOTO  18:33-21:12
 </summary>
 <img src="https://github.com/docPoacher/hello-world/assets/111644235/44e0d48c-0a81-417e-97ad-28ac17230721">
 </details>
