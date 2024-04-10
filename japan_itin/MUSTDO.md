@@ -3,7 +3,7 @@ Things to do before Thursday:
 
 Better translation aps:
 - Google Lens - for picture
-- Papago - for voice
+- Naver Papago - for voice very fast and easy
 - ChatGPT - for typing in  (provides most accurate translations)
 - Deepl - has recently become extrememly good at context so might offer solution to communication problems
 
