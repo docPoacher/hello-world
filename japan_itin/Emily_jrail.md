@@ -16,6 +16,7 @@ Maura seats:  12D  8A
   <summary>April 27 Kyoto -> Hakata 12:10 - 15:23</summary>
 <img src="Pasted image 20240409234907.png">  
 Andy seats:  6B  10B 
+    
 Maura seats:  6C  10D
 </details>
   
