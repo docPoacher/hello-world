@@ -8,13 +8,6 @@ Tap or Click arrows to expand trip details:
 Maura seats:   6C  10B
 </details>
 
-## April 22 Andy Arrives at 16:10
-<details> <summary>
-ANDY TOKYO -> KYOTO  18:33-21:12
-</summary>
-<img src="https://github.com/docPoacher/hello-world/assets/111644235/44e0d48c-0a81-417e-97ad-28ac17230721">
-</details>
-
   
 <details>
   <summary>April 22 Hakata -> Kyoto 11:23-14:39</summary>
@@ -22,7 +15,17 @@ ANDY TOKYO -> KYOTO  18:33-21:12
     
 Maura seats:  12D  8A  
 </details>
-  
+___
+
+## April 22 Andy Arrives at 16:10
+<details> <summary>
+ANDY TOKYO -> KYOTO  18:33-21:12
+</summary>
+<img src="https://github.com/docPoacher/hello-world/assets/111644235/44e0d48c-0a81-417e-97ad-28ac17230721">
+</details>
+
+___
+
 <details>
   <summary>April 27 Kyoto -> Hakata 12:10 - 15:23</summary>
 <img src="Pasted image 20240409234907.png">  
