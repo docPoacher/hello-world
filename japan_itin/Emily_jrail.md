@@ -1,5 +1,5 @@
-
-  
+Tap or Click arrows to expand trip details:  
+    
 <details>
   <summary>April 14   Tokyo -> Hakata 11:03-16:59</summary>
 <img src="Pasted image 20240409235001.png">
