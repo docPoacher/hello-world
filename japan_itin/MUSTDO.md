@@ -21,6 +21,7 @@ Better translation aps:
 
 After landing in Japan:
 - [Get Japan Rail Pass](https://japanrailpass.net/en/purchase/online/)  (may have to select language)
+- https://www.jrpass.com/blog/activating-the-jr-pass-at-haneda-airport#:~:text=East%20ticket%20office.-,Going%20to%20the%20JR%20Ticket%20office%20at%20Haneda%20Airport,lobby%2C%20near%20the%20Monorail%20entrance.
 - Print ticket for ride at ticket machine
 - ~~Get Phone Sim with Data~~
 - b-mobile eSim activation.  see [here](https://github.com/docPoacher/hello-world/blob/main/japan_itin/esim.md)
