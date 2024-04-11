@@ -1,6 +1,11 @@
 Things to do before Thursday:
 - Google Translate Ap - works okay
 
+Day before flight
+- check in
+- fly delta ap
+- 
+
 Better translation aps:
 - Google Lens - for picture
 - Naver Papago - for voice very fast and easy
