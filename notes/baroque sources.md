@@ -273,7 +273,9 @@ Puget, whose style was considered too Italian and too unclassical by Colbert. wa
 
 Lit: K. Herding: Pierre Puget, das bildnerische Werk, 1970. 95-109, 167-73:
 
-A. Blunt: Art and Architecture in France 1500-1700, rev. ed. 1973. 376-8. 51. MILO OF CROTONA. By Pierre Puget, c. 1672. Brush and ink wash.
+A. Blunt: Art and Architecture in France 1500-1700, rev. ed. 1973. 376-8. 
+
+51. MILO OF CROTONA. By Pierre Puget, c. 1672. Brush and ink wash.
 
 37 x 28 cm. Rennes, Musée des Beaux-Arts. (Photograph: Museum)
 
