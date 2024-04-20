@@ -48,7 +48,7 @@ Maura seats:  15D
 <details>
   
   <summary>UPDATED April 29 Hiroshima -> Hakata NEW TIME 19:52-20:59 ~~old time:20:51-21:59~~ </summary>
-![image](https://github.com/docPoacher/hello-world/assets/111644235/c2841876-fbdd-41e8-900e-308b515a2f33)
+<img src="https://github.com/docPoacher/hello-world/assets/111644235/c2841876-fbdd-41e8-900e-308b515a2f33">
 
     
 Andy seats:  7B ORDINARY CAR no 7 
