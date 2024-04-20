@@ -46,12 +46,14 @@ Maura seats:  15D
 </details>
 
 <details>
-  <summary>April 29 Hiroshima -> Hakata 20:51-21:59</summary>
-<img src="Pasted image 20240409234755.png">  
-    
-Andy seats:  13B  
+  
+  <summary>UPDATED April 29 Hiroshima -> Hakata NEW TIME 19:52-20:59 ~~old time:20:51-21:59~~ </summary>
+![image](https://github.com/docPoacher/hello-world/assets/111644235/c2841876-fbdd-41e8-900e-308b515a2f33)
 
-Maura seats:  14A
+    
+Andy seats:  7B ORDINARY CAR no 7 
+
+Maura seats:  6C ORDINARY CAR no 4
 </details>
   
 <details>
