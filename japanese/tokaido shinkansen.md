@@ -16,7 +16,9 @@ Like the Mizuho, the Sakura operates between Shin-Osaka and Kagoshima-Chuo Stati
 ![image](https://github.com/docPoacher/hello-world/assets/111644235/26fd9c52-2b35-45b5-8c9e-dd83345d311b)
 
 The Kodama is the slowest train category along the Sanyo Shinkansen, stopping at all stations along the way and requiring almost five hours to reach Hakata from Shin-Osaka. Train sets of eight cars are employed, some of which do not carry Green Cars.
+![image](https://github.com/docPoacher/hello-world/assets/111644235/d48520fd-0148-402f-9368-3e308d43aaf7)
 
-![image](https://github.com/docPoacher/hello-world/assets/111644235/68e2aee8-9691-4de7-bfa5-c941945bcee7)
+![image](https://github.com/docPoacher/hello-world/assets/111644235/a75a2594-214b-4c66-96f2-8e6b87f96ad9)
+
 
 
