@@ -15,4 +15,8 @@ One 16-car Hikari train from Tokyo continues along the Sanyo Shinkansen as far a
 Like the Mizuho, the Sakura operates between Shin-Osaka and Kagoshima-Chuo Station on the Kyushu Shinkansen, but stops at a few more stations than the Mizuho. Green Car seats make up only half of car number 6, while reserved seating comes in rows of 2x2 seats, which are almost as comfortable as the Green Car seats. Non-reserved seats come in rows of 3x2 seats.
 ![image](https://github.com/docPoacher/hello-world/assets/111644235/26fd9c52-2b35-45b5-8c9e-dd83345d311b)
 
+The Kodama is the slowest train category along the Sanyo Shinkansen, stopping at all stations along the way and requiring almost five hours to reach Hakata from Shin-Osaka. Train sets of eight cars are employed, some of which do not carry Green Cars.
+
+![image](https://github.com/docPoacher/hello-world/assets/111644235/68e2aee8-9691-4de7-bfa5-c941945bcee7)
+
 
