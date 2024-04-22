@@ -6,6 +6,9 @@ The Hikari is the second fastest train category along the Tokaido Shinkansen, se
 
 
 ## [Sanyo](https://www.japan-guide.com/e/e2018_sanyo.html)
+
+![image](https://github.com/docPoacher/hello-world/assets/111644235/48276833-62c5-4a9e-af05-d386bd35245f)
+
 One 16-car Hikari train from Tokyo continues along the Sanyo Shinkansen as far as Okayama each hour, serving all stations between Shin-Osaka and Okayama.
 ![image](https://github.com/docPoacher/hello-world/assets/111644235/f26c3ced-25d2-411a-ad14-d695a2d45c91)
 
