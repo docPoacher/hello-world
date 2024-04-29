@@ -16,3 +16,8 @@ Fushimi Inari Taisha and Higashi Hongan-ji Temple
 [April 28](https://photos.app.goo.gl/tLEK5ThCD3v6U64q9)
 Fukuoka, Hakozaki
 
+[April 29th Miyajima](https://photos.app.goo.gl/YhJbcQePYk9Tf8ct7)
+First day in Hiroshima.  This album contains pictures from Itsukushima Jinja and Hokokujinja Senjokaku.
+
+[April 29th Hiroshima Memorial](https://photos.app.goo.gl/zcf628aeaK1zXp9s6)
+Hiroshima memorial including Peace Park and the museum.  Very many things that are learned and to think about.
