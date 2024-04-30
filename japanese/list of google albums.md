@@ -21,3 +21,5 @@ First day in Hiroshima.  This album contains pictures from Itsukushima Jinja and
 
 [April 29th Hiroshima Memorial](https://photos.app.goo.gl/zcf628aeaK1zXp9s6)
 Hiroshima memorial including Peace Park and the museum.  Very many things that are learned and to think about.
+
+April 30th, More coming soon.  Will have Emily's pictures up soon
