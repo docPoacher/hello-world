@@ -22,4 +22,10 @@ First day in Hiroshima.  This album contains pictures from Itsukushima Jinja and
 [April 29th Hiroshima Memorial](https://photos.app.goo.gl/zcf628aeaK1zXp9s6)
 Hiroshima memorial including Peace Park and the museum.  Very many things that are learned and to think about.
 
-April 30th, More coming soon.  Will have Emily's pictures up soon
+April 30
+[Andy's](https://photos.app.goo.gl/CCK6CatCL8zvdh576)
+Andy slept in.  He met up with group late for Hiroshima day no 2
+
+May 1st
+[Andy's](https://photos.app.goo.gl/5eLJHY5R59Sb1XZx5)
+drove to a pottery festival in Hasami Nagasaki.  Tea leaves and rice terraces can be seen.
