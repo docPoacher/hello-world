@@ -29,3 +29,9 @@ Andy slept in.  He met up with group late for Hiroshima day no 2
 May 1st
 [Andy's](https://photos.app.goo.gl/5eLJHY5R59Sb1XZx5)
 drove to a pottery festival in Hasami Nagasaki.  Tea leaves and rice terraces can be seen.
+
+May 2nd, Dontaku eve
+Going to Fukuoka proper for the Hakata Dontaku festival
+[Andy's](https://photos.app.goo.gl/ap1U1NjsmWh6VTQ5A)
+
+
