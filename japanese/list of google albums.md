@@ -34,4 +34,7 @@ May 2nd, Dontaku eve
 Going to Fukuoka proper for the Hakata Dontaku festival
 [Andy's](https://photos.app.goo.gl/ap1U1NjsmWh6VTQ5A)
 
+May 3rd, Fujino-san walk and Hataka Danuta Day 1
+[Andy's](https://photos.app.goo.gl/dfVfhFxUbC3TtqBAA)
+
 
