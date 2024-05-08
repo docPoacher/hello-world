@@ -40,3 +40,11 @@ May 3rd, Fujino-san walk and Hataka Danuta Day 1
 May 4th, Dontaku Day 2
 [Andy's](https://photos.app.goo.gl/E4wcApnrFYkC69Yd8)
 
+May 5th, Maura goes home.
+[Andy's](https://photos.app.goo.gl/4Y21cXP6szdhoEgx7)
+
+May 6th, Fruit market and Aeon mall
+[Andy's](https://photos.app.goo.gl/n8xwt1xUZzcLmfPA7)
+
+May 7th, Post office, Daiso, amazing food, friends, and mall again (very close by)
+[Andy's](https://photos.app.goo.gl/Jfh2QXRHKrXxdomw9)
