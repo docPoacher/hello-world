@@ -29,7 +29,7 @@ April 29
 Part 1 - Miyajima City on Itsukushima Island  
 First day in Hiroshima.  This album contains pictures from Itsukushima Jinja, one of the two World Cultural Heritage sites in Hiroshima, and Hokokujinja Senjokaku.  
 Itsukushima Jinja is the site of the Torii gate in the sea, pobably the single most popular gate in all of Japan.  
-Lots of shamoji (rice spoons) on the island.  When you scoop rice you can say "meshitoru", capture the enemy.
+Lots of shamoji (rice spoons) on the island.  When you scoop rice you can say "meshitoru", capture the enemy.  
 [Andy's](https://photos.app.goo.gl/YhJbcQePYk9Tf8ct7)  
   
 Part 2 - Hiroshima Memorial  
