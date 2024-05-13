@@ -1,16 +1,15 @@
 ## Kyoto:  
 April 23  
-Southern Higashiyama  
+Southern Higashiyama - One of the condensed temple / shrine areas    
 [Andy's](https://photos.app.goo.gl/7vZ4uwDAXofDQjR66)  
-  
-  
+    
 April 24  
 Nishijin (weaving district) and the emperors outer garden (missed the cutoff for the castle by about 15 minutes)  
 [Andy's](https://photos.app.goo.gl/rfEESDRfsosN3k3o6)  
 
 April 25  
-[April 25](https://photos.app.goo.gl/zdByFFZY8HwT2rha9)  
 Arashiyama  
+[April 25](https://photos.app.goo.gl/zdByFFZY8HwT2rha9)  
   
 April 26  
 Just went to the Irish Flute store and the bar.  
@@ -22,20 +21,20 @@ Fushimi Inari Taisha and Higashi Hongan-ji Temple then Irish session
   
 ## Week 2 - Staying in Koga, Fukuoka  
 April 28  
-Fukuoka, Hakozaki bread festival  
+Hakozaki bread festival  
 [Andy's](https://photos.app.goo.gl/tLEK5ThCD3v6U64q9)  
   
 April 29 
-Part one - Miyajima Island  
-First day in Hiroshima.  This album contains pictures from Itsukushima Jinja and Hokokujinja Senjokaku.  
+Part 1 - Miyajima Island  
+First day in Hiroshima.  This album contains pictures from Itsukushima Jinja, one of the two World Cultural Heritage sites in Hiroshima, and Hokokujinja Senjokaku.  
 [Andy's](https://photos.app.goo.gl/YhJbcQePYk9Tf8ct7)  
   
 Part 2 - Hiroshima Memorial  
-Hiroshima memorial including Peace Park and the museum.  Very many things that are learned and to think about.  
+Hiroshima memorial, second of two WCH sites, including Peace Park and the museum.  Very many things that are learned and to think about.  
 [Andy's](https://photos.app.goo.gl/zcf628aeaK1zXp9s6)  
 
 April 30  
-Andy slept in.  He met up with group late for Hiroshima day no 2  
+Andy slept in.  He met up with group late for Hiroshima day no 2 (missed the naval museum)  
 [Andy's](https://photos.app.goo.gl/CCK6CatCL8zvdh576)  
   
 May 1st  
