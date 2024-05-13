@@ -59,7 +59,8 @@ Dontaku Day 2
 May 5th  
 Maura goes home.  
 [Andy's](https://photos.app.goo.gl/4Y21cXP6szdhoEgx7)  
-  
+
+## Week 3  
 May 6th  
 Fruit market, mountain spring, closed for some holiday, and Aeon mall  
 [Andy's](https://photos.app.goo.gl/n8xwt1xUZzcLmfPA7)  
