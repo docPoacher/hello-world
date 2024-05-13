@@ -16,7 +16,8 @@ Just went to the Irish Flute store and the bar.
 [Andy's](https://photos.app.goo.gl/AX9mHJeLczjf1cSTA)  
   
 April 27  
-Fushimi Inari Taisha and Higashi Hongan-ji Temple then Irish session  
+Fushimi Inari-Taisha and Higashi Hongan-ji Temple then Irish session  
+Fushimi Inari-Taisha is a very important shrine to O-Inari.  There are around 10,000 torii gates most with names inscribed by business donors.  
 [Andy's](https://photos.app.goo.gl/gkpmMgmTcFBaNuc18)  
   
 ## Week 2 - Staying in Koga, Fukuoka  
@@ -25,12 +26,14 @@ Hakozaki bread festival
 [Andy's](https://photos.app.goo.gl/tLEK5ThCD3v6U64q9)  
   
 April 29 
-Part 1 - Miyajima Island  
+Part 1 - Miyajima City on Itsukushima Island  
 First day in Hiroshima.  This album contains pictures from Itsukushima Jinja, one of the two World Cultural Heritage sites in Hiroshima, and Hokokujinja Senjokaku.  
+Itsukushima Jinja is the site of the Torii gate in the sea, pobably the single most popular gate in all of Japan.  
+Lots of shamoji (rice spoons) on the island.  When you scoop rice you can say "meshitoru", capture the enemy.
 [Andy's](https://photos.app.goo.gl/YhJbcQePYk9Tf8ct7)  
   
 Part 2 - Hiroshima Memorial  
-Hiroshima memorial, second of two WCH sites, including Peace Park and the museum.  Very many things that are learned and to think about.  
+Hiroshima memorial, second of two WH sites, including Peace Park and the museum.  Very many things that are learned and to think about.  
 [Andy's](https://photos.app.goo.gl/zcf628aeaK1zXp9s6)  
 
 April 30  
