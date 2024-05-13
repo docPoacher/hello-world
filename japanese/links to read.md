@@ -1,1 +1,3 @@
-[Japan train tickets: Travel guide](https://www.jrailpass.com/blog/japan-train-tickets)
+[Foreigners paying taxes in Japan](https://www.expatden.com/japan/tax-in-japan-for-foreigners/)
+
+
