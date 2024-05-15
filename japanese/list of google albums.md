@@ -1,4 +1,4 @@
-#List of albums by day (select name to enter album for that day)  
+# List of albums by day (select name to enter album for that day)  
   
 ## Kyoto:  
 April 23  
