@@ -71,4 +71,24 @@ May 7th
 Post office, Daiso, amazing food, friends, and mall again (very close by)  
 [Andy's](https://photos.app.goo.gl/Jfh2QXRHKrXxdomw9)  
   
-May 8 (coming soon, probably tomorrow, 5/14)  
+May 8
+Beech, History of Japan mural, American apparel store, Koga Shrine, the best lemon drink, weird plant, instant noodles, Japanese robin substitute, baseball, whiskey
+[Andy's](https://photos.app.goo.gl/ov5WKhfvPabi3Qr59)
+
+May 9
+Morning TV, cleaned high places, curry (nepal), low tide, almost got a hawk dive on camera
+[Andy's](https://photos.app.goo.gl/fYaoSfssjyhNVVSB8)
+
+May 10
+City welcome center including extruding recycled plastic station, Dai-Riki restaurant, game trade shop, last night in Koga, HOME MADE CHIRASHI!, incredible drinks at Bar Magellan. 
+[Andy's](https://photos.app.goo.gl/s9fncq6h6D5EaE6R8)
+
+May 11
+Shinkansen to Tokyo, Imperial Palace, Akihabara, Ameyoko, Ueno, Mikoshi parade, ryokan.
+[Andy's](https://photos.app.goo.gl/yCGUgHjZ2hst7ws16)
+
+May 12
+Ueno Park, Monorail to Airport, last meal, foot and a half tall grass.
+[Andy's](https://photos.app.goo.gl/T65objeoc6VsFRjN6)
+
+
