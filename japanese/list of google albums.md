@@ -1,3 +1,5 @@
+#List of albums by day (select name to enter album for that day)  
+  
 ## Kyoto:  
 April 23  
 Southern Higashiyama - One of the condensed temple / shrine areas    
