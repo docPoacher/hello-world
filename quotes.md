@@ -29,3 +29,4 @@ invoked only as Author of the motions of the universe.
   (Dubos 1950, pp. 395–396)
 </details>
 
+Annual meeting of the toupe enthusiasts: a Toupe is very easy to pull off.
