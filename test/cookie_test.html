@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<title></title>
+<body>
+
+<button onClick="addState()">do it</button>
+<button onClick="clearState()">clear it</button>
+</body>
+<script type="text/javascript">
+function addState() {
+  if (typeof localStorage.gameState == "undefined") {
+   localStorage.gameState = 0;
+}
+  localStorage.gameState++;
+  console.log(localStorage.gameState);
+}
+function clearState() {
+  localStorage.gameState = 0;
+  console.log(localStorage.gameState);
+}
+  
+
+console.log("beginning of script");
+document.cookie = "courseName=webDeveopment bootcamp; expires = Thu, 5 March 2030 12:00:00 UTC; path = /;false;";
+function getCookie(cookieName) {
+	const cookies = document.cookie.split('; ');
+	for (const cookie of cookies) {
+		const [name, value] = cookie.split('=');
+		if (name === cookieName) {
+			return decodeURIComponent(value);
+		}
+	}
+	return null;
+}
+const courseName = getCookie('courseName');
+console.log('Course Name:', courseName);
+
+
+
+
+</script>
+</body>
+</html>
