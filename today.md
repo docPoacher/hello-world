@@ -1,5 +1,5 @@
 - [ ] https://www.akkio.com/post/the-five-main-subsets-of-ai-machine-learning-nlp-and-more
-- [ ] 
+- [ ] https://www.reddit.com/r/lasercutting/comments/qe8nul/what_is_a_good_home_laser_cutter/
 - [ ] 
 
 food watch list:
