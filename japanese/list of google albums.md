@@ -9,6 +9,8 @@
 April 23  
 Southern Higashiyama - One of the condensed temple / shrine areas    
 [Andy's](https://photos.app.goo.gl/7vZ4uwDAXofDQjR66)  
+
+![Southern Higashiyama](Southern_Higashiyama.jpg)  
     
 April 24  
 Nishijin (weaving district) and the emperors outer garden (missed the cutoff for the castle by about 15 minutes)  
@@ -17,6 +19,7 @@ Nishijin (weaving district) and the emperors outer garden (missed the cutoff for
 April 25  
 Arashiyama  
 [April 25](https://photos.app.goo.gl/zdByFFZY8HwT2rha9)  
+![Arashiyama](Arashiyama.jpg)  
   
 April 26  
 Just went to the Irish Flute store and the bar.  
@@ -26,7 +29,8 @@ April 27
 Fushimi Inari-Taisha and Higashi Hongan-ji Temple then Irish session  
 Fushimi Inari-Taisha is a very important shrine to O-Inari.  There are around 10,000 torii gates most with names inscribed by business donors.  
 [Andy's](https://photos.app.goo.gl/gkpmMgmTcFBaNuc18)  
-  
+![Fushimi Inari](Fushimi_Inari-Taisha.jpg)  
+
 ## Week 2 - Staying in Koga, Fukuoka  
 April 28  
 Hakozaki bread festival  
