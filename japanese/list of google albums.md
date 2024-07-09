@@ -4,7 +4,7 @@
 --- 
 
 # Andy's Pictures: List of albums by day (select name to enter album for that day)  
-  
+![2024 Andy itinerary](2024-trip-over.jpg)    
 ## Kyoto:  
 April 23  
 Southern Higashiyama - One of the condensed temple / shrine areas    
