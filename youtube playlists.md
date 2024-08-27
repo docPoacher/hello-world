@@ -1,3 +1,8 @@
+singls:
+[Digital Granada Festival: Pepe Romero](https://www.youtube.com/watch?v=8CpMHOqEGoU)
+
+
+
 Misc Video Game OST:
 
 [The Zoo Race OST - PolishWorm](https://youtube.com/playlist?list=PLOJErpyswxzMIw5M0tB4wrQsZ-ak7WoWK)  
