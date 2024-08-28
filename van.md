@@ -21,3 +21,5 @@ https://www.dometic.com/en-us/outdoor/coolers/electric-coolers/dometic-cfx3-75dz
 
 Cooler Choices  
 https://www.reddit.com/r/TruckCampers/comments/ujatse/best_12v_chest_fridge_in_2022_dometic_vs_iceco_vs/  
+  
+https://www.amazon.com/Whynter-FM-62DZ-Portable-Fridge-Freezers/dp/B008VX01P2/ref=mp_s_a_1_1?crid=27FES2IYI2O5O&keywords=whynter%2B62%2Bqt&qid=1651802530&sprefix=whynter%2B62qt%2Caps%2C272&sr=8-1&th=1  
