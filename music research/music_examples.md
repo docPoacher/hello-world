@@ -95,3 +95,6 @@ https://scaleworkshop.plainsound.org/?l=aF9_aF8_aF7_3F2_aF6_&f=33.3yk5rcyk6&m=x&
 [Proper A# minor 10 tone 432.1 A - goopis](https://scaleworkshop.plainsound.org/?n=Proper%20A%23%20minor%2010%20tone%20432.1%20A%20-%20goopis&l=74F6r_aF9_bF9_aF8_4F3_aF7_3F2_bF7_aF6_&f=c0.3lllllllo&version=2.3.8)  
 
 http://terpstrakeyboard.com/play-it-now/  
+
+Native american tuning
+https://www.flutopedia.com/int8_more_intervals.htm#Relative_Tuning
