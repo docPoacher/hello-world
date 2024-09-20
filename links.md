@@ -3,6 +3,10 @@
 [How to make watermelon juice](https://40aprons.com/watermelon-water-recipe/comment-page-1/#comments)  
 
 [3d printed flute based off Terry McGee's measurements](https://www.myminifactory.com/object/3d-print-irish-d-flute-118831) one bed 23 hours on BIQU Thunder
+  
+[cocolate definitions](https://www.global-organics.com/post.php?s=2019-11-22-chocolate-and-cocoa-terms-defined)  
+
+
 
 https://www.greenmatters.com/food/chlormequat-free-oats
 
