@@ -1,5 +1,7 @@
 https://courses.lumenlearning.com/suny-arthistory2/chapter/berninis-david/
 
+https://www.pafa.org/museum/collection/item/murder-rutland-lord-clifford
+
 Catalogue of Illustrations
 
 Abbreviations:
