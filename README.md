@@ -1,3 +1,7 @@
+divi.help/threads/woocommerce-uneven-columns-on-category-pages.3541/
+
+https://www.businessbloomer.com/woocommerce-shop-columns-responsive/
+
 # hello-world
 
 https://www.researchgate.net/figure/Schematic-Model-Demonstrating-How-Individual-Components-of-a-Stressful-Environment-Might_fig3_7938704  
