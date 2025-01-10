@@ -1,3 +1,5 @@
+[book on slavery in africa?](https://archive.org/details/wesleyanjuvenil07socigoog/page/n12/mode/2up)  
+
 [some class on computer programming](https://github.com/msatul1305/1st-year-study-materials-vssut/tree/master)  
 
 [CS50 reading materials on github](https://github.com/misstong/CS50-Edx/blob/master/programming%20in%20c%20(4th%20edition)%20%20-%20stephen%20g.%20kochan(1).pdf)  
