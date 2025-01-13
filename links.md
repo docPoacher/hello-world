@@ -1,3 +1,5 @@
+[Pronouncing Irish](https://daltai.com/marbh-le-tae-agus-marbh-gan-e/)  
+
 [book on slavery in africa?](https://archive.org/details/wesleyanjuvenil07socigoog/page/n12/mode/2up)  
 
 [some class on computer programming](https://github.com/msatul1305/1st-year-study-materials-vssut/tree/master)  
