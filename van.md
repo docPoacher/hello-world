@@ -15,7 +15,7 @@ https://www.buy.hempitecture.com/?sscid=81k8_utj0r&
 [Subaru Sambar Van Review](https://youtu.be/TMQn3dZp-Vk?si=qjZZ0uGG3shJL2At)  
 [Building a DIY Camper from start to finish](https://youtu.be/NhWhBwXjcF8?si=TfjsmBCdNWfFvUZv)  
 
-[https://jalopnik.com/importing-this-honda-beat-is-the-most-fun-i-ve-ever-had-1846953290](importing japanese vehicles)  
+[importing japanese vehicles](https://jalopnik.com/importing-this-honda-beat-is-the-most-fun-i-ve-ever-had-1846953290)  
 
 
 battery  
