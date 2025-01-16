@@ -1,5 +1,7 @@
 The only parts that fit perfectly together are the ones that result from a broken one.
 
+https://worrydream.com/LadderOfAbstraction/
+
 divi.help/threads/woocommerce-uneven-columns-on-category-pages.3541/
 
 https://www.businessbloomer.com/woocommerce-shop-columns-responsive/
