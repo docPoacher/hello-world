@@ -42,3 +42,52 @@ The only parts that fit perfectly together are the ones that result from a broke
 
 ## Woodworking  
 https://woodbin.com/calcs/sagulator/  
+  
+  
+
+## UNCOMPILED
+Computer
+[A Long and Incomplete History of Scanners](https://youtu.be/DlgWsFJScU8?si=pr19KzCLeEduoUXA)  
+
+	Linux general
+[https://bbs.archlinux.org/viewtopic.php?id=41622](poster puts arch and puppy on old laptop)  
+
+	Nix
+https://github.com/NixOS/nixpkgs/issues/81815
+
+
+	Computer Science
+[how to learn node -reddit ](https://www.reddit.com/r/node/comments/uozxa8/how_should_i_start_learning_the_node_js/)  
+[https://worrydream.com/LadderOfAbstraction/](Programming blog - Ladder of Abstraction)  
+[some class on computer programming](https://github.com/msatul1305/1st-year-study-materials-vssut/tree/master)  
+[CS50 reading materials on github](https://github.com/misstong/CS50-Edx/blob/master/programming%20in%20c%20(4th%20edition)%20%20-%20stephen%20g.%20kochan(1).pdf)  
+
+
+watch:
+[Rambling groyper movie suggestions](https://x.com/RamblingGroyper/status/1745559499534970976?s=20)  
+
+WooCommerce  
+divi.help/threads/woocommerce-uneven-columns-on-category-pages.3541/
+https://www.businessbloomer.com/woocommerce-shop-columns-responsive/
+
+learn Believe by Cher
+
+
+Journal compiled 2025-01-16
+
+
+
+2024-02-29
+# Emotionally strained  
+I feel that I am mentally disengaged.  I feel good physically, save the balls of my feet for whatever reason, and I believe I am getting enough sleep.  
+
+However, I am finding it difficult to make music and difficult to become excited.  I am not 'dead' only a little low.  
+
+Music
+
+
+	temperament
+		[https://music.arts.uci.edu/abauer/148_2018/readings/Intro.gamelan.pdf](gamelan harmonics)  
+
+https://www.reddit.com/r/microtonal/comments/jvk1pw/mandelbit_microtonal_chiptune/
+
