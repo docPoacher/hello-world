@@ -1,7 +1,3 @@
-check this out
-[Cartoon brew's article on Puparia and links](https://www.cartoonbrew.com/documentary-2/how-the-hit-short-film-puparia-was-born-from-frustration-with-the-anime-industry-201551.html)
-
-
 How to get a personality:  
 <details><summary>The spike method:</summary>
 a method used to describe how people become outliers on resumes</details>  
