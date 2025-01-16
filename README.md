@@ -1,9 +1,10 @@
 The only parts that fit perfectly together are the ones that result from a broken one.
-<details>
-<summary>Reading</summary>
+<details><summary>Reading</summary>
+  
 [book on slavery in africa?](https://archive.org/details/wesleyanjuvenil07socigoog/page/n12/mode/2up)  
 [cocolate definitions](https://www.global-organics.com/post.php?s=2019-11-22-chocolate-and-cocoa-terms-defined)  
 [Sleeping Beauty](https://www.pacifica.edu/wp-content/uploads/2018/08/Vol.2-Archetypal-interpretation-of-sleeping-beauty.pdf)  
+
 </details>
 
 ## Buy
