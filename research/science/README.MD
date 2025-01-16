@@ -3,6 +3,7 @@
 
 	projects
 [Make a battery](https://www.instructables.com/How-to-Turn-Spare-Pocket-Change-into-DIY-Batteries/)
+
 	Electronics
 https://www.circuitbasics.com/how-to-read-schematics/  
 https://www.circuitbasics.com/circuit-analysis/  
