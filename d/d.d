@@ -1,1 +1,189 @@
+- [x] King's Field
+- [ ] shadow hearts ps2
+- [ ] Hi no Tori Hououhen: Gaou no Bouken (MSX)
+- [ ] Cyber Troopers Virtual-On or Virtual On (arcade/windows/ps2 (sega ages 2500)/ps4)
+- [ ] The witness -Jonathan blow (pc)
+- [ ] Pandora directive (pc)
+- [ ] Indiana Jones and the Fate of Atlantis (pc)
+- [ ] Indiana Jones and the Emperor's tomb (multi)
+- [ ] Deus Ex (pc + ps2)
+- [ ] Crusader of Centy (genesis)
+- [ ] Etrian Odyssey Nexus 3ds
+- [ ] https://disillusionst.itch.io/disillusion-st
+- [ ] [Intrusion 2](https://www.play-games.com/game/20446/intrusion-2.html)
+- [ ] Orrstead
+- [ ] switch:
+- [ ] tactics ogre: reborn
+- [ ] unicorn overlord
+- [ ] crono cross: the radical dreamers
+- [ ] the great ace attorney chronicles
+- [x] Ogre Battle: The March of the Black Queen (SNES)
+- [x] Secret of Evermore
+- [ ] Kirby’s Dream Land
+- [x] Soul Blazer
+- [x] Kirby Super Star
+- [ ] ps2 Shinobi
+- [ ] God hand
+- [ ] zone of enders the second runner
+- [ ] xbox Ninja gaiden Black
+- [ ] neo: the world ends with you
+- [ ] Uriel's Chasm (pc)
+- [ ] 
+
+
+
+Fishing Vacation Deluxe
+Blaster Master: Enemy Below
+
+## gameboy:
+- [x] Kirby Block ball.
+- [x] Tactics Ogre 
+- [x] Advance Wars 1 & 2., Drill Dozer, Pokémon Crystal, Kid Dracula, Burger Time, Kid Icaru
+- [x] QUARTH (1990)
+- [x] QIX (1990)
+
+- [x] Avenging Spirit
+- [x] Bionic Commando
+- [x] Bionic Commando
+- [x] BOULDER DASH (1990)
+- [x] Donkey Kong Land 2
+- [x] Donkey Kong Land III
+- [x] Donkey Kong Land III
+- [x] Drill Dozer
+- [x] Kid Icarus: Of Myths & Monsters
+- [x] Kirby’s Dream Land
+- [x] Kirby's Dream Land 2
+- [x] Kirby Super Star
+- [x] Kirby Tilt 'n' Tumble
+- [x] KWIRK (1989
+- [x] Legend of the River Kin
+- [x] Megami Tensei Gaiden: Last Bible
+- [x] MOLE MANIA (1996)
+- [x] Perfect Dark
+- [x] Super Mario Land 2: 6 Golden Coins (GB)
+- [x] Super R.C. Pro-Am
+- [x] The Sword of Hope II 
+- [x] Tony Hawk's Pro Skater 2
+- [x] Wario Land: Super Mario Land 3 (GB)
+- [x] WarioWare, Inc.: Mega Microgame$!
+- [x] Warlocked
+
+
+
+- [x] gb
+- [x] Bomb Jack
+- [ ] 
+- [x] GBC
+- [ ] 
+- [x] legend of river king 2
+- [ ] 
+- [ ] 
+- [ ] Gamecube
+- [ ] Eternal Darkness: Sanity’s Requiem
+- [ ] 
+- [ ] PSX
+- [ ] Reel Fishing 2
+- [ ] Big Ol Bass 2
+- [x] dodonpachi
+- [x] Um Jammer Lammy
+- [ ] 
+- [ ] 
+- [x] gens
+- [x] Alisia Dragoon
+- [x] Bass Master Classic Pro edition
+- [x] Beyond Oasis
+- [x] Castle of Illusion Starring Mickey Mouse
+- [x] Castlevania Bloodlines
+- [x] Columns
+- [x] Dune II: Battle for Arrakis
+- [x] Dynamite Headdy
+- [x] El Viento
+- [x] Flashback: The Quest for Identity
+- [x] General Chaos
+- [x] Granada
+- [x] Gunstar Heros
+- [x] Herzog Zwei
+- [x] Jurassic Park games
+- [x] Landstalker: The Treasures of King Nole
+- [x] Light Crusader
+- [x] Lightning Force
+- [x] M.U.S.H.A.
+- [x] Out of this World
+- [x] Outrunners
+- [x] Panorama Cotton
+- [x] Phantasy Star
+- [x]  Phantasy Star II 
+- [x] Phantasy Star IV
+- [x] Pirates Gold!
+- [x] Ranger X
+- [x] Revenge of Shinobi
+- [x] Shadow Dancer
+- [x] Shining Force II
+- [x] Shinobi III
+- [x]  Starflight
+- [x] Syndicate
+- [x] The Adventures of Batman & Robin
+- [x] ToeJam & Earl
+- [x]  True Lies
+- [x] Valis III
+- [x] Warsong
+- [x]  Wonder Boy in Monster World
+- [x]  Zero Wing
+- [ ] 
+- [ ] 
+- [ ] 
+- [x] N64
+- [x] Pokémon Puzzle League
+- [ ] 
+- [ ] PSP
+- [ ] Kollon
+- [ ] 
+- [ ] 
+- [ ] snes
+- [x] Inindo: Way of the Ninja
+- [x] Panel de Pon
+- [ ] 
+- [ ] 
+- [x] nES
+- [x] Blue Marlin
+- [x] Destiny of an Emperor
+- [x] Zanac
+- [x] Zoda’s Revenge: StarTropics 2
+- [x] RBI Baseball
+- [x] Flying Warriors
+- [x] Shingen the Ruler
+- [x] Golgo 13: Top Secret Episode
+- [ ] 
+- [ ] dreamcast
+- [ ] Sega Marine Fishing
+- [ ] Sega Bass Fishing
+- [ ] 
+- [ ] Dos
+- [ ] Indiana Jones and the Fate of Atlantis
+- [ ] Warlords (also on amiga)
+- [ ] Red Baron
+- [ ] Wasteland
+- [ ] 
+- [ ] sega mk iii
+- [x] Alex Kidd in Miracle World
+- [x] Black Belt
+- [ ] 
+- [ ] Atari 7800
+- [ ] Ninja Golf
+- [ ] 
+- [ ] figure out ys
+- [ ] 
+- [ ] Game Gear 
+- [ ] Sonic Drift 2
+- [ ] 
+- [ ] galaga 90 turbografx
+- [ ] Ninja Spirits for Turbographx-16
+- [ ] 
+- [ ] Android
+- [ ] Nethack
+- [ ] Panel Attack
+- [ ] Star Control Origins
+- [ ] 
+
+
 
