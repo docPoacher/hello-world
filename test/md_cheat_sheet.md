@@ -65,7 +65,7 @@ Pi (π) — &#960;`
 ---
 `[title](link)`
 [title](link)  
-`![alt text](img.jpg)`
+`![alt text](../pics/md_cheatsheet.jpg)`
 ![alt text](../pics/md_cheatsheet.jpg)
 
 
