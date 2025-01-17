@@ -1,100 +1,135 @@
-- [x] King's Field
-- [ ] shadow hearts ps2
-- [ ] Hi no Tori Hououhen: Gaou no Bouken (MSX)
-- [ ] Cyber Troopers Virtual-On or Virtual On (arcade/windows/ps2 (sega ages 2500)/ps4)
-- [ ] The witness -Jonathan blow (pc)
-- [ ] Pandora directive (pc)
+# PC Old
 - [ ] Indiana Jones and the Fate of Atlantis (pc)
-- [ ] Indiana Jones and the Emperor's tomb (multi)
+- [ ] Nethack
+- [ ] Pandora directive (pc)
+
+# Misc
+- [ ] Android
+- [ ] Hi no Tori Hououhen: Gaou no Bouken (MSX)
+- [ ] Panel Attack (is it pokemon puzzle league?)
+
+# Dos
+- [ ] Indiana Jones and the Fate of Atlantis
+- [ ] Red Baron
+- [ ] Warlords (also on amiga)
+- [ ] Wasteland
+
+# Atari 7800
+- [ ] Ninja Golf
+
+# Turbografix - 16?
+- [ ] Galaga 90 88?
+- [ ] Ninja Spirit
+
+# PC New
+- [ ] crono cross: the radical dreamers
 - [ ] Deus Ex (pc + ps2)
-- [ ] Crusader of Centy (genesis)
-- [ ] Etrian Odyssey Nexus 3ds
 - [ ] https://disillusionst.itch.io/disillusion-st
+- [ ] Fishing Vacation Deluxe
 - [ ] [Intrusion 2](https://www.play-games.com/game/20446/intrusion-2.html)
 - [ ] Orrstead
-- [ ] switch:
+- [ ] Star Control Origins
 - [ ] tactics ogre: reborn
-- [ ] unicorn overlord
-- [ ] crono cross: the radical dreamers
-- [ ] the great ace attorney chronicles
-- [x] Ogre Battle: The March of the Black Queen (SNES)
-- [x] Secret of Evermore
-- [ ] Kirby’s Dream Land
-- [x] Soul Blazer
-- [x] Kirby Super Star
-- [ ] ps2 Shinobi
-- [ ] God hand
-- [ ] zone of enders the second runner
-- [ ] xbox Ninja gaiden Black
-- [ ] neo: the world ends with you
 - [ ] Uriel's Chasm (pc)
-- [ ] 
+- [ ] The witness -Jonathan blow (pc)
 
+# PSX
+- [ ] Big Ol Bass 2
+- [x] dodonpachi
+- [x] King's Field
+- [ ] Reel Fishing 2
+- [x] Um Jammer Lammy
 
+# PS2
+- [ ] Cyber Troopers Virtual-On or Virtual On (arcade/windows/ps2 (sega ages 2500)/ps4)
+- [ ] God hand
+- [ ] Indiana Jones and the Emperor's tomb (multi)
+- [ ] shadow hearts ps2
+- [ ] Shinobi
+- [ ] zone of enders the second runner
 
-Fishing Vacation Deluxe
-Blaster Master: Enemy Below
+# PSP
+- [ ] Kollon
 
-## gameboy:
-- [x] Kirby Block ball.
-- [x] Tactics Ogre 
-- [x] Advance Wars 1 & 2., Drill Dozer, Pokémon Crystal, Kid Dracula, Burger Time, Kid Icaru
-- [x] QUARTH (1990)
-- [x] QIX (1990)
+# NES
+- [x] Blue Marlin
+- [x] Destiny of an Emperor
+- [x] Flying Warriors
+- [x] Golgo 13: Top Secret Episode
+- [x] RBI Baseball
+- [x] Shingen the Ruler
+- [x] Zanac
+- [x] Zoda’s Revenge: StarTropics 2
 
+# SNES
+- [x] Inindo: Way of the Ninja
+- [x] Kirby Super Star
+- [x] Ogre Battle: The March of the Black Queen (SNES)
+- [x] Panel de Pon
+- [x] Secret of Evermore
+- [x] Soul Blazer
+
+# Gameboy
 - [x] Avenging Spirit
 - [x] Bionic Commando
-- [x] Bionic Commando
+- [x] Bomb Jack
 - [x] BOULDER DASH (1990)
 - [x] Donkey Kong Land 2
 - [x] Donkey Kong Land III
 - [x] Donkey Kong Land III
-- [x] Drill Dozer
-- [x] Kid Icarus: Of Myths & Monsters
-- [x] Kirby’s Dream Land
+- [ ] Kid Dracula
+- [ ] Kid Icarus: Of Myths and Monsters
+- [ ] Kirby’s Dream Land
 - [x] Kirby's Dream Land 2
-- [x] Kirby Super Star
-- [x] Kirby Tilt 'n' Tumble
+- [x] Kirby’s Dream Land
+- [x] Kirby Block ball.
 - [x] KWIRK (1989
-- [x] Legend of the River Kin
-- [x] Megami Tensei Gaiden: Last Bible
+- [x] Legend of the River King
 - [x] MOLE MANIA (1996)
-- [x] Perfect Dark
+- [x] QIX (1990)
+- [x] QUARTH (1990)
 - [x] Super Mario Land 2: 6 Golden Coins (GB)
 - [x] Super R.C. Pro-Am
-- [x] The Sword of Hope II 
-- [x] Tony Hawk's Pro Skater 2
+- [x] The Sword of Hope II
+
+# Gameboy Color
+- [ ] Blaster Master: Enemy Below
+- [x] Kirby Tilt 'n' Tumble (requires motion)
+- [x] legend of river king 2
+- [x] Megami Tensei Gaiden: Last Bible
+- [x] Perfect Dark
 - [x] Wario Land: Super Mario Land 3 (GB)
-- [x] WarioWare, Inc.: Mega Microgame$!
 - [x] Warlocked
 
+# Gameboy Advance
+- [x] Advance Wars 1 & 2.
+- [x] Drill Dozer
+- [x] Tony Hawk's Pro Skater 2
+- [ ] Tactics Ogre: The Knight of Lodis
+- [x] WarioWare, Inc.: Mega Microgame$!
 
+# N64
+- [x] Pokémon Puzzle League
 
-- [x] gb
-- [x] Bomb Jack
-- [ ] 
-- [x] GBC
-- [ ] 
-- [x] legend of river king 2
-- [ ] 
-- [ ] 
-- [ ] Gamecube
+# Gamecube
 - [ ] Eternal Darkness: Sanity’s Requiem
-- [ ] 
-- [ ] PSX
-- [ ] Reel Fishing 2
-- [ ] Big Ol Bass 2
-- [x] dodonpachi
-- [x] Um Jammer Lammy
-- [ ] 
-- [ ] 
-- [x] gens
+
+# Switch
+- [ ] neo: the world ends with you (also pc)
+- [ ] unicorn overlord
+
+# sega mk iii
+- [x] Alex Kidd in Miracle World
+- [x] Black Belt
+
+# Genesis
 - [x] Alisia Dragoon
 - [x] Bass Master Classic Pro edition
 - [x] Beyond Oasis
 - [x] Castle of Illusion Starring Mickey Mouse
 - [x] Castlevania Bloodlines
 - [x] Columns
+- [ ] Crusader of Centy (genesis)
 - [x] Dune II: Battle for Arrakis
 - [x] Dynamite Headdy
 - [x] El Viento
@@ -129,61 +164,18 @@ Blaster Master: Enemy Below
 - [x] Warsong
 - [x]  Wonder Boy in Monster World
 - [x]  Zero Wing
-- [ ] 
-- [ ] 
-- [ ] 
-- [x] N64
-- [x] Pokémon Puzzle League
-- [ ] 
-- [ ] PSP
-- [ ] Kollon
-- [ ] 
-- [ ] 
-- [ ] snes
-- [x] Inindo: Way of the Ninja
-- [x] Panel de Pon
-- [ ] 
-- [ ] 
-- [x] nES
-- [x] Blue Marlin
-- [x] Destiny of an Emperor
-- [x] Zanac
-- [x] Zoda’s Revenge: StarTropics 2
-- [x] RBI Baseball
-- [x] Flying Warriors
-- [x] Shingen the Ruler
-- [x] Golgo 13: Top Secret Episode
-- [ ] 
-- [ ] dreamcast
-- [ ] Sega Marine Fishing
-- [ ] Sega Bass Fishing
-- [ ] 
-- [ ] Dos
-- [ ] Indiana Jones and the Fate of Atlantis
-- [ ] Warlords (also on amiga)
-- [ ] Red Baron
-- [ ] Wasteland
-- [ ] 
-- [ ] sega mk iii
-- [x] Alex Kidd in Miracle World
-- [x] Black Belt
-- [ ] 
-- [ ] Atari 7800
-- [ ] Ninja Golf
-- [ ] 
-- [ ] figure out ys
-- [ ] 
-- [ ] Game Gear 
-- [ ] Sonic Drift 2
-- [ ] 
-- [ ] galaga 90 turbografx
-- [ ] Ninja Spirits for Turbographx-16
-- [ ] 
-- [ ] Android
-- [ ] Nethack
-- [ ] Panel Attack
-- [ ] Star Control Origins
-- [ ] 
 
+# Gamegear
+- [ ] Sonic Drift 2
+
+# dreamcast
+- [ ] Sega Bass Fishing
+- [ ] Sega Marine Fishing
+
+# Multi
+- [ ] the great ace attorney chronicles (multi)
+
+# Xbox
+- [ ] xbox Ninja gaiden Black
 
 
