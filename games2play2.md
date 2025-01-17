@@ -108,6 +108,9 @@
 - [ ] Tactics Ogre: The Knight of Lodis
 - [x] WarioWare, Inc.: Mega Microgame$!
 
+# 3DS
+- [ ] Etrian Odyssey Nexus 3ds
+
 # N64
 - [x] Pokémon Puzzle League
 
