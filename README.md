@@ -1,6 +1,9 @@
 [Markdown Cheat sheet](/test/md_cheat_sheet.md)  
 
-The only parts that fit perfectly together are the ones that result from a broken one.
+The only parts that fit perfectly together are the ones that result from a broken one.  
+  
+Value everyone's opinion.  Even the incorrect opinion from your viewpoint contains correcting bias.  A member of a business that you find useless might have a particular method that make them standout.  That method might have economic or efficiency value.  
+
 <details><summary>Reading</summary>
   
 [book on slavery in africa?](https://archive.org/details/wesleyanjuvenil07socigoog/page/n12/mode/2up)  
