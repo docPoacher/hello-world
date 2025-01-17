@@ -1,3 +1,5 @@
+
+
 \|Table \| column \| third \|  
 \| \-\-\- \| \-\-\- \| \-\-\- |  
 \| cell 1 \| cell2 \| cell 3 \|
@@ -64,6 +66,6 @@ Pi (π) — &#960;`
 `[title](link)`
 [title](link)  
 `![alt text](img.jpg)`
-![alt text](img.jpg)
+![alt text](pics/md_cheatsheet.jpg)
 
 
