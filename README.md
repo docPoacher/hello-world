@@ -48,8 +48,6 @@ Value everyone's opinion.  Even the incorrect opinion from your viewpoint contai
 ## Woodworking  
 https://woodbin.com/calcs/sagulator/  
   
-  
-
 ## UNCOMPILED
 Computer
 [A Long and Incomplete History of Scanners](https://youtu.be/DlgWsFJScU8?si=pr19KzCLeEduoUXA)  
@@ -83,7 +81,7 @@ Journal compiled 2025-01-16
 
 
 2024-02-29
-# Emotionally strained  
+### Emotionally strained  
 I feel that I am mentally disengaged.  I feel good physically, save the balls of my feet for whatever reason, and I believe I am getting enough sleep.  
 
 However, I am finding it difficult to make music and difficult to become excited.  I am not 'dead' only a little low.  
@@ -95,4 +93,7 @@ Music
 		[https://music.arts.uci.edu/abauer/148_2018/readings/Intro.gamelan.pdf](gamelan harmonics)  
 
 https://www.reddit.com/r/microtonal/comments/jvk1pw/mandelbit_microtonal_chiptune/
+
+# Read 
+The Perks of Being a Wallflower
 
