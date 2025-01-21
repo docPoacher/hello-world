@@ -46,7 +46,7 @@ Value everyone's opinion.  Even the incorrect opinion from your viewpoint contai
 [rollingstone christian teen jihad - aquire the fire and ron luce](https://www.rollingstone.com/culture/culture-features/teenage-holy-war-videos-of-ron-luce-and-evangelical-jihad-231696/)  
 
 ## Woodworking  
-https://woodbin.com/calcs/sagulator/  
+[Calculate the sag of a board](https://woodbin.com/calcs/sagulator/)  
   
 ## UNCOMPILED
 Computer
