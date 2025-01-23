@@ -1,6 +1,19 @@
 [Markdown Cheat sheet](/test/md_cheat_sheet.md)  
+<details><summary>Markdown links</summary>
+https://www.markdownguide.org/  
+https://quartz.jzhao.xyz/  
+https://www.reddit.com/r/ObsidianMD/comments/16e5jek/best_way_to_selfhost_obsidian_publish/  
+https://kinsta.com/blog/static-site-generator/  
+https://minimal.guide/home  
+https://www.mkdocs.org/  
+https://dillinger.io/  
+https://dev.to/humberd/building-a-blog-part-1-framework-reasearch-1l2o  
+https://dev.to/jordanfinners/creating-a-collapsible-section-with-nothing-but-html-4ip9  
 
-https://www.reddit.com/r/ObsidianMD/comments/16e5jek/best_way_to_selfhost_obsidian_publish/
+
+</details>
+
+
 
 The only parts that fit perfectly together are the ones that result from a broken one.  
   
