@@ -24,7 +24,7 @@ Value everyone's opinion.  Even the incorrect opinion from your viewpoint contai
 [book on slavery in africa?](https://archive.org/details/wesleyanjuvenil07socigoog/page/n12/mode/2up)  
 [cocolate definitions](https://www.global-organics.com/post.php?s=2019-11-22-chocolate-and-cocoa-terms-defined)  
 [Sleeping Beauty](https://www.pacifica.edu/wp-content/uploads/2018/08/Vol.2-Archetypal-interpretation-of-sleeping-beauty.pdf)  
-
+EDITH BLIGHTON  
 </details>
 
 ## Buy
