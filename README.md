@@ -1,6 +1,6 @@
 [Markdown Cheat sheet](/test/md_cheat_sheet.md)  
 
-somthing
+https://www.reddit.com/r/ObsidianMD/comments/16e5jek/best_way_to_selfhost_obsidian_publish/
 
 The only parts that fit perfectly together are the ones that result from a broken one.  
   
