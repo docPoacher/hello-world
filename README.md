@@ -9,8 +9,6 @@ https://www.mkdocs.org/
 https://dillinger.io/  
 https://dev.to/humberd/building-a-blog-part-1-framework-reasearch-1l2o  
 https://dev.to/jordanfinners/creating-a-collapsible-section-with-nothing-but-html-4ip9  
-
-
 </details>
 
 
@@ -43,6 +41,11 @@ EDITH BLIGHTON
 [Inappropriate Dessert Names are the best. Lemon Posset recipe @dowellcooks](https://youtu.be/lx9s_wIO284?si=dtoy7kTry-c80kdC)  
 [The Irish Meal I can't Stop Eating - Dublin Coddle](https://youtu.be/RllUbQQ5feY?si=7zbp1_zUptDiCGe2)  
 [How to make watermelon juice](https://40aprons.com/watermelon-water-recipe/comment-page-1/#comments)  
+[Transylvanian beef with garlic harvester sauce](https://youtu.be/UY4dOKVf85M?si=gXt_MLCo-vLrXW8N)  
+[Classic Butter Caramel](https://youtu.be/USTWdVERhkQ?si=iWFMVRJQIL0S7WSi)  
+[Pecan Pie without Corn Syrup from 1914](https://youtu.be/HMrFfPnPrDs?si=_yI6BbtfdwM3RIxx)  
+[Fermented Hot Sauce](https://youtu.be/bPrJCfqr5xA?si=9qv3exIQbhXu38ip)  
+
   
 ### Chef Jean-Pierre:  
 [Italian Wedding Soup](https://youtu.be/q9uEr0xR0ug?si=7yOHnuPL1050xSFj)  
@@ -67,8 +70,16 @@ EDITH BLIGHTON
 Computer
 [A Long and Incomplete History of Scanners](https://youtu.be/DlgWsFJScU8?si=pr19KzCLeEduoUXA)  
 
+
+## CSS
+[CSS just changed forever… plus 7 new features you don't know about - Fireship](https://youtu.be/A89FMtIkWKc?si=g31SmyNu75IDDIaa)  
+
+
+
 	Linux general
-[https://bbs.archlinux.org/viewtopic.php?id=41622](poster puts arch and puppy on old laptop)  
+[poster puts arch and puppy on old laptop](https://bbs.archlinux.org/viewtopic.php?id=41622)  
+[The best way to learn linux](https://youtu.be/Dg2Lek-xN70?si=74kkBaYLeajygpRh)  
+
 
 	Nix
 https://github.com/NixOS/nixpkgs/issues/81815
@@ -76,7 +87,7 @@ https://github.com/NixOS/nixpkgs/issues/81815
 
 	Computer Science
 [how to learn node -reddit ](https://www.reddit.com/r/node/comments/uozxa8/how_should_i_start_learning_the_node_js/)  
-[https://worrydream.com/LadderOfAbstraction/](Programming blog - Ladder of Abstraction)  
+[Programming blog - Ladder of Abstraction](https://worrydream.com/LadderOfAbstraction/)  
 [some class on computer programming](https://github.com/msatul1305/1st-year-study-materials-vssut/tree/master)  
 [CS50 reading materials on github](https://github.com/misstong/CS50-Edx/blob/master/programming%20in%20c%20(4th%20edition)%20%20-%20stephen%20g.%20kochan(1).pdf)  
 
