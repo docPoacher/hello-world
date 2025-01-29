@@ -34,7 +34,7 @@ EDITH BLIGHTON
 [Making soap from ash](https://farmingmybackyard.com/homemade-soap-from-ashes/)  
 [Pack basket instructable](https://www.instructables.com/Pack-Basket/)  
 [home laser cutter old reddit](https://www.reddit.com/r/lasercutting/comments/qe8nul/what_is_a_good_home_laser_cutter/)  
-[https://www.etsy.com/listing/499442398/pine-three-cube-benchentertainment?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=minimalist+bench&ref=sc_gallery-1-3&plkey=099ed4f31c838c4f616a11a1a5ce139e6803779e%3A499442398](Bench thing for under front window)  
+[Bench thing for under front window](https://www.etsy.com/listing/499442398/pine-three-cube-benchentertainment?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=minimalist+bench&ref=sc_gallery-1-3&plkey=099ed4f31c838c4f616a11a1a5ce139e6803779e%3A499442398)  
 
 ## Food:
 [5 minute Baguette](https://youtu.be/Z-husjZkxHw?si=aH_DzDBim3uZvWC2)  
@@ -112,11 +112,11 @@ I feel that I am mentally disengaged.  I feel good physically, save the balls of
 
 However, I am finding it difficult to make music and difficult to become excited.  I am not 'dead' only a little low.  
 
-Music
+### Music
 
 
-	temperament
-		[https://music.arts.uci.edu/abauer/148_2018/readings/Intro.gamelan.pdf](gamelan harmonics)  
+## 	temperament
+[gamelan harmonics](https://music.arts.uci.edu/abauer/148_2018/readings/Intro.gamelan.pdf)  
 
 https://www.reddit.com/r/microtonal/comments/jvk1pw/mandelbit_microtonal_chiptune/
 
