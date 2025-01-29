@@ -74,6 +74,17 @@ Computer
 ## CSS
 [CSS just changed forever… plus 7 new features you don't know about - Fireship](https://youtu.be/A89FMtIkWKc?si=g31SmyNu75IDDIaa)  
 
+### Tricks
+[put css in svg foreign entity for gitub](https://stackoverflow.com/questions/51956361/custom-css-file-for-readme-md-in-a-github-repo)  
+
+from accordian wrapper fiddle:  
+https://stackoverflow.com/questions/4686754/making-every-character-on-a-web-page-the-same-width  
+https://stackoverflow.com/questions/8515365/are-there-other-whitespace-codes-like-nbsp-for-half-spaces-em-spaces-en-space  
+https://stackoverflow.com/questions/10813581/can-i-replace-the-expand-icon-of-the-details-element  
+https://www.youtube.com/watch?v=Vzj3jSUbMtI  
+https://stackoverflow.com/questions/63522837/trying-to-make-the-accordion-collapsible-open-slower  
+https://stackoverflow.com/questions/13094141/make-div-expand-smoothly  
+https://developer.mozilla.org/en-US/docs/Web/CSS/flex  
 
 
 	Linux general
