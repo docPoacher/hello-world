@@ -11,6 +11,7 @@ https://dev.to/humberd/building-a-blog-part-1-framework-reasearch-1l2o
 https://dev.to/jordanfinners/creating-a-collapsible-section-with-nothing-but-html-4ip9  
 </details>
 
+Funny raspberry pi catastrophe https://www.techradar.com/pro/i-thought-a-raspberry-pi-nas-was-a-good-idea-heres-why-im-wrong  
 
 
 The only parts that fit perfectly together are the ones that result from a broken one.  
