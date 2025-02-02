@@ -1,5 +1,6 @@
 [Markdown Cheat sheet](/test/md_cheat_sheet.md)  
 <details><summary>Markdown links</summary>
+	
 https://www.markdownguide.org/  
 https://quartz.jzhao.xyz/  
 https://www.reddit.com/r/ObsidianMD/comments/16e5jek/best_way_to_selfhost_obsidian_publish/  
@@ -19,9 +20,9 @@ The only parts that fit perfectly together are the ones that result from a broke
 Value everyone's opinion.  Even the incorrect opinion from your viewpoint contains correcting bias.  A member of a business that you find useless might have a particular method that make them standout.  That method might have economic or efficiency value.  
 
 <details><summary>Reading</summary>
+	
 [Ways to use AI in learning environment](https://www.oneusefulthing.org/p/assigning-ai-seven-ways-of-using)  
 [folk music daily](https://singout.org/category/sorm/)  
-  
 [book on slavery in africa?](https://archive.org/details/wesleyanjuvenil07socigoog/page/n12/mode/2up)  
 [cocolate definitions](https://www.global-organics.com/post.php?s=2019-11-22-chocolate-and-cocoa-terms-defined)  
 [Sleeping Beauty](https://www.pacifica.edu/wp-content/uploads/2018/08/Vol.2-Archetypal-interpretation-of-sleeping-beauty.pdf)  
