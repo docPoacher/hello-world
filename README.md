@@ -19,7 +19,7 @@ The only parts that fit perfectly together are the ones that result from a broke
 Value everyone's opinion.  Even the incorrect opinion from your viewpoint contains correcting bias.  A member of a business that you find useless might have a particular method that make them standout.  That method might have economic or efficiency value.  
 
 <details><summary>Reading</summary>
-
+[Ways to use AI in learning environment](https://www.oneusefulthing.org/p/assigning-ai-seven-ways-of-using)  
 [folk music daily](https://singout.org/category/sorm/)  
   
 [book on slavery in africa?](https://archive.org/details/wesleyanjuvenil07socigoog/page/n12/mode/2up)  
@@ -71,6 +71,7 @@ EDITH BLIGHTON
   
 ## UNCOMPILED
 Computer
+
 [A Long and Incomplete History of Scanners](https://youtu.be/DlgWsFJScU8?si=pr19KzCLeEduoUXA)  
 [RAWGIT?](https://rawgit.com/)  
 
