@@ -4,8 +4,8 @@ https://www.besteveralbums.com/yearstats.php?y=1990
 
 Temperament Studies:  
 [gamelan harmonics](https://music.arts.uci.edu/abauer/148_2018/readings/Intro.gamelan.pdf)  
-[Does the Key of Music Even Matter? - Jake Thurston](https://www.youtube.com/watch?v=xsv-raYq4YM)  
-Contains good reference material.  
+[Does the Key of Music Even Matter? - Jake Thurston](https://www.youtube.com/watch?v=xsv-raYq4YM) Contains good reference material.  
+  
 
 https://www.reddit.com/r/microtonal/comments/jvk1pw/mandelbit_microtonal_chiptune/  
 
