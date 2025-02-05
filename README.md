@@ -1,3 +1,11 @@
+**DO THIS NOW**
+What is: 
+ - Job order costing
+ - Activity-based costing
+ - process costing
+
+
+
 [Markdown Cheat sheet](/test/md_cheat_sheet.md)  
 <details><summary>Markdown links</summary>
 	
