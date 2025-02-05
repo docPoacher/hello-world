@@ -5,7 +5,7 @@
 >| - Job order costing|
 >| - Activity-based costing|
 >| - process costing|
->| --- |
+
 
 
 ---
