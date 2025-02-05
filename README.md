@@ -37,7 +37,10 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4391243
 EDITH BLIGHTON  
 The Perks of Being a Wallflower  
 </details>
+<details><summary>Funny</summary>
 	
+[Funny raspberry pi catastrophe](https://www.techradar.com/pro/i-thought-a-raspberry-pi-nas-was-a-good-idea-heres-why-im-wrong)  
+</details>	
 </td>
 <td>
 <details><summary>A Third Category</summary>
@@ -47,7 +50,7 @@ Here's some stuff
 </td>
 </tr></table>
 ---
-Funny raspberry pi catastrophe https://www.techradar.com/pro/i-thought-a-raspberry-pi-nas-was-a-good-idea-heres-why-im-wrong  
+
 
 The only parts that fit perfectly together are the ones that result from a broken one.  
   
