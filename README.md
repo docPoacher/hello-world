@@ -66,12 +66,22 @@ Value everyone's opinion.  Even the incorrect opinion from your viewpoint contai
 - [ ] Check Hard drives  
 [tiles from Joann](https://www.joann.com/p/floorpops-12in-x-12in-kikko-peel-stick-floor-tiles-10ct/16814626.html)  
 
+<table><tr><td>
+<details><summary>DIY</summary>
 
-## DIY
 [Making soap from ash](https://farmingmybackyard.com/homemade-soap-from-ashes/)  
 [Pack basket instructable](https://www.instructables.com/Pack-Basket/)  
 [home laser cutter old reddit](https://www.reddit.com/r/lasercutting/comments/qe8nul/what_is_a_good_home_laser_cutter/)  
 [Bench thing for under front window](https://www.etsy.com/listing/499442398/pine-three-cube-benchentertainment?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=minimalist+bench&ref=sc_gallery-1-3&plkey=099ed4f31c838c4f616a11a1a5ce139e6803779e%3A499442398)  
+
+</details>
+<td>
+<details><summary>Woodworking</summary>
+	
+[Calculate the sag of a board](https://woodbin.com/calcs/sagulator/)  
+</details>
+</td>
+</td></tr></table>
 
 ## Food:
 [5 minute Baguette](https://youtu.be/Z-husjZkxHw?si=aH_DzDBim3uZvWC2)  
@@ -98,8 +108,6 @@ Value everyone's opinion.  Even the incorrect opinion from your viewpoint contai
 [Juggling?](https://www.reddit.com/r/crazysexycool/comments/1bi0ui5/juggling_takes_balls/?utm_source=share&utm_medium=web2x&context=3)  
 
 
-## Woodworking  
-[Calculate the sag of a board](https://woodbin.com/calcs/sagulator/)  
   
 ## UNCOMPILED
 Computer
