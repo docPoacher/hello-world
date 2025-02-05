@@ -18,14 +18,16 @@ https://www.mkdocs.org/
 https://dillinger.io/  
 https://dev.to/humberd/building-a-blog-part-1-framework-reasearch-1l2o  
 https://dev.to/jordanfinners/creating-a-collapsible-section-with-nothing-but-html-4ip9  
-</details>
+</details>  
+
 ---
 Funny raspberry pi catastrophe https://www.techradar.com/pro/i-thought-a-raspberry-pi-nas-was-a-good-idea-heres-why-im-wrong  
 
 The only parts that fit perfectly together are the ones that result from a broken one.  
   
 Value everyone's opinion.  Even the incorrect opinion from your viewpoint contains correcting bias.  A member of a business that you find useless might have a particular method that make them standout.  That method might have economic or efficiency value.  
----
+
+---  
 <details><summary>Reading</summary>  
 	
 https://www.ox.ac.uk/students/academic/guidance/skills/ai-study  
@@ -38,7 +40,8 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4391243
 [Sleeping Beauty](https://www.pacifica.edu/wp-content/uploads/2018/08/Vol.2-Archetypal-interpretation-of-sleeping-beauty.pdf)  
 EDITH BLIGHTON  
 </details>
----
+
+---  
 ## Buy
 - [ ] Check Hard drives  
 [tiles from Joann](https://www.joann.com/p/floorpops-12in-x-12in-kikko-peel-stick-floor-tiles-10ct/16814626.html)  
