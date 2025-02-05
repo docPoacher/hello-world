@@ -40,7 +40,6 @@ The Perks of Being a Wallflower
 <details><summary>Funny</summary>
 	
 [Funny raspberry pi catastrophe](https://www.techradar.com/pro/i-thought-a-raspberry-pi-nas-was-a-good-idea-heres-why-im-wrong)  
-## silly:
 [rollingstone christian teen jihad - aquire the fire and ron luce](https://www.rollingstone.com/culture/culture-features/teenage-holy-war-videos-of-ron-luce-and-evangelical-jihad-231696/)  
 
 </details>	
