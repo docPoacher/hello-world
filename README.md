@@ -2,7 +2,7 @@
 >|**DO THIS NOW**  |
 >|---|
 >|What is: |
->| - Job order costing|
+> - Job order costing
 >| - Activity-based costing|
 >| - process costing|
 >| --- |
