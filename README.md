@@ -40,6 +40,9 @@ The Perks of Being a Wallflower
 <details><summary>Funny</summary>
 	
 [Funny raspberry pi catastrophe](https://www.techradar.com/pro/i-thought-a-raspberry-pi-nas-was-a-good-idea-heres-why-im-wrong)  
+## silly:
+[rollingstone christian teen jihad - aquire the fire and ron luce](https://www.rollingstone.com/culture/culture-features/teenage-holy-war-videos-of-ron-luce-and-evangelical-jihad-231696/)  
+
 </details>	
 </td>
 <td>
@@ -94,8 +97,6 @@ Value everyone's opinion.  Even the incorrect opinion from your viewpoint contai
 [lock terminology](https://www.locksmiths.co.uk/locksmith-terminology-parts-of-locks/)  
 [Juggling?](https://www.reddit.com/r/crazysexycool/comments/1bi0ui5/juggling_takes_balls/?utm_source=share&utm_medium=web2x&context=3)  
 
-## silly:
-[rollingstone christian teen jihad - aquire the fire and ron luce](https://www.rollingstone.com/culture/culture-features/teenage-holy-war-videos-of-ron-luce-and-evangelical-jihad-231696/)  
 
 ## Woodworking  
 [Calculate the sag of a board](https://woodbin.com/calcs/sagulator/)  
