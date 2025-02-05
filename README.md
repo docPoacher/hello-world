@@ -8,9 +8,9 @@
 
 ---
 <table><tr><td>
-[Markdown Cheat sheet](/test/md_cheat_sheet.md)  
+ 
 <details><summary>Markdown links</summary>
-	
+[Markdown Cheat sheet](/test/md_cheat_sheet.md) 
 https://www.markdownguide.org/  
 https://quartz.jzhao.xyz/  
 https://www.reddit.com/r/ObsidianMD/comments/16e5jek/best_way_to_selfhost_obsidian_publish/  
