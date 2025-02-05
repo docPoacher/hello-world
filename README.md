@@ -107,15 +107,13 @@ Value everyone's opinion.  Even the incorrect opinion from your viewpoint contai
 [Juggling?](https://www.reddit.com/r/crazysexycool/comments/1bi0ui5/juggling_takes_balls/?utm_source=share&utm_medium=web2x&context=3)  
 
 
-  
-## UNCOMPILED
-Computer
+# Computer
 
 [A Long and Incomplete History of Scanners](https://youtu.be/DlgWsFJScU8?si=pr19KzCLeEduoUXA)  
 [RAWGIT?](https://rawgit.com/)  
 
-
 ## CSS
+---
 [CSS just changed forever… plus 7 new features you don't know about - Fireship](https://youtu.be/A89FMtIkWKc?si=g31SmyNu75IDDIaa)  
 
 ### Tricks
@@ -131,26 +129,26 @@ https://stackoverflow.com/questions/13094141/make-div-expand-smoothly
 https://developer.mozilla.org/en-US/docs/Web/CSS/flex  
 
 
-	Linux general
+## Linux general
 [poster puts arch and puppy on old laptop](https://bbs.archlinux.org/viewtopic.php?id=41622)  
 [The best way to learn linux](https://youtu.be/Dg2Lek-xN70?si=74kkBaYLeajygpRh)  
 
 
-	Nix
+### Nix
 https://github.com/NixOS/nixpkgs/issues/81815
 
 
-	Computer Science
+# Computer Science
 [how to learn node -reddit ](https://www.reddit.com/r/node/comments/uozxa8/how_should_i_start_learning_the_node_js/)  
 [Programming blog - Ladder of Abstraction](https://worrydream.com/LadderOfAbstraction/)  
 [some class on computer programming](https://github.com/msatul1305/1st-year-study-materials-vssut/tree/master)  
 [CS50 reading materials on github](https://github.com/misstong/CS50-Edx/blob/master/programming%20in%20c%20(4th%20edition)%20%20-%20stephen%20g.%20kochan(1).pdf)  
 
 
-watch:
+## watch:
 [Rambling groyper movie suggestions](https://x.com/RamblingGroyper/status/1745559499534970976?s=20)  
 
-WooCommerce  
+#### WooCommerce  
 divi.help/threads/woocommerce-uneven-columns-on-category-pages.3541/
 https://www.businessbloomer.com/woocommerce-shop-columns-responsive/
 
