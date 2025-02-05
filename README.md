@@ -36,6 +36,8 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4391243
 [Sleeping Beauty](https://www.pacifica.edu/wp-content/uploads/2018/08/Vol.2-Archetypal-interpretation-of-sleeping-beauty.pdf)  
 EDITH BLIGHTON  
 The Perks of Being a Wallflower  
+[Lucien A True Story (2nd century greek science fiction satire )](https://www.gutenberg.org/files/45858/45858-h/45858-h.htm)  
+
 </details>
 <details><summary>Funny</summary>
 	
