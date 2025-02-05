@@ -7,6 +7,7 @@
 >| - process costing|
 
 ---
+<table><tr><td>
 [Markdown Cheat sheet](/test/md_cheat_sheet.md)  
 <details><summary>Markdown links</summary>
 	
@@ -20,7 +21,7 @@ https://dillinger.io/
 https://dev.to/humberd/building-a-blog-part-1-framework-reasearch-1l2o  
 https://dev.to/jordanfinners/creating-a-collapsible-section-with-nothing-but-html-4ip9  
 </details>  
-
+</td></tr></table>
 ---
 Funny raspberry pi catastrophe https://www.techradar.com/pro/i-thought-a-raspberry-pi-nas-was-a-good-idea-heres-why-im-wrong  
 
