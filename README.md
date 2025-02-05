@@ -1,9 +1,10 @@
 > [!important]
 >**DO THIS NOW**  
->What is: 
-> - Job order costing
-> - Activity-based costing
-> - process costing
+>|What is: |
+>| - Job order costing|
+>| - Activity-based costing|
+>| - process costing|
+>| --- |
 
 
 ---
