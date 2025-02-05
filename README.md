@@ -35,8 +35,15 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4391243
 [cocolate definitions](https://www.global-organics.com/post.php?s=2019-11-22-chocolate-and-cocoa-terms-defined)  
 [Sleeping Beauty](https://www.pacifica.edu/wp-content/uploads/2018/08/Vol.2-Archetypal-interpretation-of-sleeping-beauty.pdf)  
 EDITH BLIGHTON  
+The Perks of Being a Wallflower  
 </details>
 	
+</td>
+<td>
+<details><summary>A Third Category</summary>
+Here's some stuff  
+</details>
+ 
 </td>
 </tr></table>
 ---
@@ -157,6 +164,4 @@ However, I am finding it difficult to make music and difficult to become excited
 
 https://www.reddit.com/r/microtonal/comments/jvk1pw/mandelbit_microtonal_chiptune/
 
-# Read 
-The Perks of Being a Wallflower
 
