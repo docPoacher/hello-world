@@ -1,7 +1,7 @@
 > [!important]
 >|**DO THIS NOW**  |
 >|---|
->|            |
+>|      take a break      |
 >|            |
 >|            |
 >|            |
