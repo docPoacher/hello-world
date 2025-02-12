@@ -28,7 +28,8 @@ https://dev.to/jordanfinners/creating-a-collapsible-section-with-nothing-but-htm
 </td>
 <td>
 <details><summary>Reading</summary>  
-	
+
+[Structures of mitochondrial oxidative phosphorylation supercomplexes and mechanisms for their stabilisation - ScienceDirect #3](https://www.sciencedirect.com/science/article/pii/S0005272813001746)  
 https://www.ox.ac.uk/students/academic/guidance/skills/ai-study  
 https://www.sciencedirect.com/science/article/pii/S0099133323000599?via%3Dihub  
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4391243  
