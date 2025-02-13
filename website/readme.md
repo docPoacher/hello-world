@@ -1,3 +1,6 @@
+02/13/2025 Thursday  
+Internet is awful.  I want to blame the trees but ISP says they are doing work in the area.  I can barely study since my entire class is online and only loads up small fragments at a time.  Will keep at it, almost 1/5 through this class.
+
 02/04/2025 Tuesday
 I find myself thinking about people groups.  I was alerted that people from middle eastern groups often do not provide me with the information needed to complete their transaction.  They do not seem to know that information either.  People from the African-American community usually try to give me an abundant amount of information, and other groups seem to wait for me to ask them.  Perhaps stereotypical european stock American people might wait to be told what I need, which is similar to how the middle eastern people operate, but not consistent as.  
 
