@@ -1,10 +1,10 @@
 > [!important]
 >|**DO THIS NOW**  |
 >|---|
->|      think about life      |
->|            |
->|            |
->|            |
+>|      Finish Managerial Finance Class      |
+>|      Start recording skeleton's of album      |
+>|      work out      |
+>|      learn session tunes      |
 
 ---
 
@@ -29,6 +29,7 @@ https://dev.to/jordanfinners/creating-a-collapsible-section-with-nothing-but-htm
 <td>
 <details><summary>Reading</summary>  
 
+[Tekkon Kinkreet](https://fto.to/chapter/119858)  
 [Structures of mitochondrial oxidative phosphorylation supercomplexes and mechanisms for their stabilisation - ScienceDirect #3](https://www.sciencedirect.com/science/article/pii/S0005272813001746)  
 https://www.ox.ac.uk/students/academic/guidance/skills/ai-study  
 https://www.sciencedirect.com/science/article/pii/S0099133323000599?via%3Dihub  
