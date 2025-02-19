@@ -7,13 +7,13 @@
 >|      learn session tunes      |
 ---
 
+<svg>
+<symbol id="heart">
+<path class="heartPip" stroke-width="1" d="M 72 51 Q 68 40 72 32 Q 78 21 91 12 Q 95 9 99 8 Q 107 5 113 5 Q 129 7 132 30 Q 132 33 109 66 Q 93 88 79 113 Q 61 137 64 146 L 60 148 Q 55 126 50 110 Q 40 85 21 65 Q 11 58 4 47 Q -1 16 29 0 Q 41 -2 52 2 Q 82 30 72 51"></path>
+</symbol>
+</svg>
 
-<a href="website/test.svg">
-	<picture>
-	  <source media="(min-width: 720px)" srcset="website/test.svg">
-	  <img src="test.svg" width="800" height="400" alt="Click to see the source">
-	</picture>
-</a>
+<svg class="circle" viewBox="0 0 150 150" height=".6em" width=".6em" style="align-items: center;"><use xlink:href="#heart"></use></svg>
 
 
 
@@ -186,6 +186,14 @@ However, I am finding it difficult to make music and difficult to become excited
 ## 	temperament
 [gamelan harmonics](https://music.arts.uci.edu/abauer/148_2018/readings/Intro.gamelan.pdf)  
 
-https://www.reddit.com/r/microtonal/comments/jvk1pw/mandelbit_microtonal_chiptune/
-
+https://www.reddit.com/r/microtonal/comments/jvk1pw/mandelbit_microtonal_chiptune/  
+  
+  
+  
+<a href="website/test.svg">
+	<picture>
+	  <source media="(min-width: 720px)" srcset="website/test.svg">
+	  <img src="test.svg" width="800" height="400" alt="Click to see the source">
+	</picture>
+</a>
 
