@@ -6,7 +6,7 @@
 				.textv{  color: var(--color-v);}
 			</style>
 			<div class="textv">
-			hello
+			<text>hello</text>
 			</div>
 		</div>
 	</foreignObject>
