@@ -12,8 +12,10 @@
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<link rel="stylesheet" href="website/colors_details.css">
 			<style>
-			<font class="textz">hello</font>	
+				.textz{  color: var(--color-z);}
 			</style>
+			<font class="textz">hello</font>	
+			
 		</div>
 	</foreignObject>
 </svg>
