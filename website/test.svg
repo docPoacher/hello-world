@@ -2,11 +2,17 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-				:root {  --color-v: #FFFACD; /*Lemon Chiffon*/
+				:root {  
+				  --color-v: #FFFACD; /*Lemon Chiffon*/
+				  --color-u: #53ac69; /*Forest Green*/
+				}
 				.textv{  color: var(--color-v);}
+				h3{  background-color: var(--color-u);}
 			</style>
 			<div class="textv">
+				<h3>
 			<text>hello</text>
+				</h3>
 			</div>
 		</div>
 	</foreignObject>
