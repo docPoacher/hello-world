@@ -172,12 +172,20 @@ I feel that I am mentally disengaged.  I feel good physically, save the balls of
 However, I am finding it difficult to make music and difficult to become excited.  I am not 'dead' only a little low.  
 
 ### Music
+[FM Synthesis](https://www.perfectcircuit.com/signal/modern-fm-synthesis?srsltid=AfmBOor6D3DZeiK3ZqusmLv3EjsXzYu3XlS7uUxFGY2wSRqkF6ictiEt)  
+
+## Microtuning
+[gamelan harmonics](https://music.arts.uci.edu/abauer/148_2018/readings/Intro.gamelan.pdf)  
+https://www.reddit.com/r/microtonal/comments/jvk1pw/mandelbit_microtonal_chiptune/  
+
+### Computer tools
+https://www.2getheraudio.com/instruments/opzilla/  
 
 
 ## 	temperament
-[gamelan harmonics](https://music.arts.uci.edu/abauer/148_2018/readings/Intro.gamelan.pdf)  
 
-https://www.reddit.com/r/microtonal/comments/jvk1pw/mandelbit_microtonal_chiptune/  
+
+
   
   
   
