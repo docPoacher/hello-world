@@ -6,9 +6,9 @@
 >|      work out      |
 >|      learn session tunes      |
 ---
-
-
-
+  
+https://juce.com/  
+  
 <table><tr><td>
  
 <details><summary>Markdown links</summary>
