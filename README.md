@@ -14,8 +14,8 @@
 				:root {  --color-v: #FFFACD; /*Lemon Chiffon*/
 				.textv{  color: var(--color-v);}
 			</style>
-			<div>
-			<font class="textz">hello</font>	
+			<div class="textv">
+			hello
 			</div>
 		</div>
 	</foreignObject>
