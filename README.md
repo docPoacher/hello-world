@@ -173,6 +173,7 @@ However, I am finding it difficult to make music and difficult to become excited
 
 ### Music
 [FM Synthesis](https://www.perfectcircuit.com/signal/modern-fm-synthesis?srsltid=AfmBOor6D3DZeiK3ZqusmLv3EjsXzYu3XlS7uUxFGY2wSRqkF6ictiEt)  
+[types of banjos](https://www.fretexpert.com/different-types-banjos/)  
 
 ## Microtuning
 [gamelan harmonics](https://music.arts.uci.edu/abauer/148_2018/readings/Intro.gamelan.pdf)  
