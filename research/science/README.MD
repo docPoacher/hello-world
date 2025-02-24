@@ -1,3 +1,6 @@
+Nutrition:  
+Phosphatidylserine - chemical used to treat alzeimers, anti-aging, ADHD, and performance enhancement  
+
 
 [sources about electric lighting in the late 1800's.](https://www.reddit.com/r/AskHistorians/comments/lhdg0f/what_electric_lamp_is_bram_stoker_referring_to/)
 
