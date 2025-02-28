@@ -1,3 +1,10 @@
+02/28/2025 Friday
+People are dirty.
+They do not have any desire left to care for themselves.  How can you get a person to wash their clothes or their face if they have no desire to do so?  In many cases the absolute need for cleanliness is displaced by another more pertinent need, such as rest or mental relaxation.  At many people's jobs, they are expected to do work at greater and greater efficiencies.  These efficiencies were not able to be met by their parents or their grandparents and in fact many jobs today did not exist in the previous generations and are products or consequences of efficiency itself.  There is expected waste.
+
+
+
+
 02/13/2025 Thursday  
 Internet is awful.  I want to blame the trees but ISP says they are doing work in the area.  I can barely study since my entire class is online and only loads up small fragments at a time.  Will keep at it, almost 1/5 through this class.
 
