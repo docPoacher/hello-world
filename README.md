@@ -6,6 +6,8 @@
 >|      Start recording skeleton's of album      |
 >|      work out      |
 >|      learn session tunes      |
+>|      [folk music daily](https://singout.org/category/sorm/)  |
+
 ---
   
 https://juce.com/  
@@ -29,20 +31,16 @@ https://dev.to/jordanfinners/creating-a-collapsible-section-with-nothing-but-htm
 <td>
 <details><summary>Reading</summary>  
 
-"I, pencil" Leonard E Reed
-"Not Yours to Give" Davy Crockett
+"I, pencil" Leonard E Reed  
+"Not Yours to Give" Davy Crockett  
 [Structures of mitochondrial oxidative phosphorylation supercomplexes and mechanisms for their stabilisation - ScienceDirect #3](https://www.sciencedirect.com/science/article/pii/S0005272813001746)  
-https://www.ox.ac.uk/students/academic/guidance/skills/ai-study  
-https://www.sciencedirect.com/science/article/pii/S0099133323000599?via%3Dihub  
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4391243  
-[Ways to use AI in learning environment](https://www.oneusefulthing.org/p/assigning-ai-seven-ways-of-using)  
-[folk music daily](https://singout.org/category/sorm/)  
 [book on slavery in africa?](https://archive.org/details/wesleyanjuvenil07socigoog/page/n12/mode/2up)  
 [cocolate definitions](https://www.global-organics.com/post.php?s=2019-11-22-chocolate-and-cocoa-terms-defined)  
 [Sleeping Beauty](https://www.pacifica.edu/wp-content/uploads/2018/08/Vol.2-Archetypal-interpretation-of-sleeping-beauty.pdf)  
-EDITH BLIGHTON  
+Five on Treasure island? - EDITH BLIGHTON or Enid Blyton  
+
 The Perks of Being a Wallflower  
-[Lucien A True Story (2nd century greek science fiction satire )](https://www.gutenberg.org/files/45858/45858-h/45858-h.htm)  
+
 
 </details>
 <details><summary>Funny</summary>
