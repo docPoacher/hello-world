@@ -15,7 +15,8 @@ https://juce.com/
 <table><tr><td>
  
 <details><summary>Markdown links</summary>
-	
+  
+[how to make a githup pages blog or something](https://github.com/skills/github-pages)  
 [Markdown Cheat sheet](/test/md_cheat_sheet.md)  
 [Markdown to HTML (good)](https://markdowntohtml.com/)  
 https://www.markdownguide.org/  
