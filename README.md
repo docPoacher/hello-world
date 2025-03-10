@@ -5,6 +5,7 @@
 >|      Finish Managerial Finance Class      |
 >|      Start recording skeleton's of album      |
 >|      work out      |
+>|      Learn:  Arpanet, Serial, TCP/IP |
 >|      learn session tunes      |
 >|      [folk music daily](https://singout.org/category/sorm/)  |
 
