@@ -2,7 +2,7 @@
 [menthol study](https://pmc.ncbi.nlm.nih.gov/articles/PMC3720998/)  
   
 
-##Nutrition:  
+## Nutrition:  
 Phosphatidylserine - chemical used to treat alzeimers, anti-aging, ADHD, and performance enhancement  
 
 
