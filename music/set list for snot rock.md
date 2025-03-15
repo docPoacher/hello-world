@@ -23,3 +23,32 @@
 	Ur all Close-Minded.md
 	Worst then you.md
 	Touch me I'm sick
+
+
+
+
+My dead girlfriend
+I want you
+You make me feel
+I'm terrible
+Remember me featuring Renault
+Raconteurs
+Analog Baby
+Book ar dumb
+Ur all Close-Minded
+My fat girl
+Cheyenne
+Every item that I own
+Head by Jeremy Sandwich
+This little light of mine Roud no: 17768
+The big day
+Dialectic
+High-roller
+I'd rather
+Worst than you
+Drop by sometime
+One more level
+No-thanks giving
+Touch me I'm sick
+Making art
+Everyone I know is ghey
