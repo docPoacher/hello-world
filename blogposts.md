@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "
+title: ""
 date: 2025-03
 ---
 ---------------
