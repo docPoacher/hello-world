@@ -10,7 +10,7 @@
 >|      [folk music daily](https://singout.org/category/sorm/)  |
 
 ---
-  
+https://onecompiler.com/python    
 https://juce.com/  
   
 <table><tr><td>
