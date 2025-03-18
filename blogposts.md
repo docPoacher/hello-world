@@ -6,6 +6,13 @@ date: 2025-03
 ---------------
 ---
 layout: blog
+title: "Warm"
+date: 2025-03-18
+---
+I wore a hat and scarf to sleep last night.  It was a lot better.  I did wake up a little cold.
+
+---
+layout: blog
 title: "Sudoku"
 date: 2025-03-17
 ---
