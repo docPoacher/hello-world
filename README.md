@@ -1,6 +1,7 @@
 > [!important]
 >|**DO THIS NOW**  |
 >|---|
+>| review budgeting resources.md |
 >|    elk bone  |
 >|      Finish Managerial Finance Class      |
 >|      Start recording skeleton's of album      |
