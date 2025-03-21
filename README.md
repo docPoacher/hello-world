@@ -20,7 +20,7 @@
 [the celtic room sessions improved](https://www.youtube.com/watch?v=-UXdMYbuRKM&list=PLz9-xQJUVBW3w3C4kPaPMIJyxlzE--Mi3&pp=gAQB)  
 
 [Music Ambient sh27](https://www.youtube.com/watch?v=0d6Vvj-t5Ho&list=PLz9-xQJUVBW2s6x20K_0LTyPV2DokUaZ1&pp=gAQB0gcJCXcEOCosWNin)  
-[Fipple tute playlist sh27](https://www.youtube.com/playlist?list=PLz9-xQJUVBW1fiPOaqaySkrd_LsEvIcgG)  
+[Fipple tute playlist sh27](https://www.youtube.com/watch?v=XquwYUxVv2I&list=PLz9-xQJUVBW1fiPOaqaySkrd_LsEvIcgG&pp=gAQB)  
 [fiddle mix no 2 sh27](https://www.youtube.com/watch?v=xb-3f3HnC2s&list=PLz9-xQJUVBW3e2kHzMcgEjhyzftE2CUEA&pp=gAQB)  
 [Fiddle Mix 3 sh27](https://www.youtube.com/watch?v=i93nuh2LkMM&list=PLz9-xQJUVBW3P6muSZDQJGWMFeQnU9Cst&pp=gAQB)  
 [fiddle list no 4 sh27](https://www.youtube.com/watch?v=RDwGSPsDh7k&list=PLz9-xQJUVBW3SPaWabL2lzPUB5fqWEkdX&pp=gAQB)  
