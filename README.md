@@ -1,3 +1,4 @@
+<table><tr><td>
 > [!important]
 >|**DO THIS NOW**  |
 >|---|
@@ -11,6 +12,18 @@
 >|      [folk music daily](https://singout.org/category/sorm/)  |
 
 ---
+
+</td><td>
+[Charlie Walden's 100 Essential Missouri Fiddle Tunes](https://www.youtube.com/watch?v=UTZ35-c9V6k&list=PLz9-xQJUVBW0Z1pSC3mbcEn8NROCwSOFL&pp=gAQB)  
+[the celtic room sessions improved](https://www.youtube.com/watch?v=-UXdMYbuRKM&list=PLz9-xQJUVBW3w3C4kPaPMIJyxlzE--Mi3&pp=gAQB)  
+
+[Music Ambient sh27](https://www.youtube.com/watch?v=0d6Vvj-t5Ho&list=PLz9-xQJUVBW2s6x20K_0LTyPV2DokUaZ1&pp=gAQB0gcJCXcEOCosWNin)  
+[Fipple tute playlist sh27](https://www.youtube.com/playlist?list=PLz9-xQJUVBW1fiPOaqaySkrd_LsEvIcgG)  
+[fiddle mix no 2 sh27](https://www.youtube.com/watch?v=xb-3f3HnC2s&list=PLz9-xQJUVBW3e2kHzMcgEjhyzftE2CUEA&pp=gAQB)  
+[Fiddle Mix 3 sh27](https://www.youtube.com/watch?v=i93nuh2LkMM&list=PLz9-xQJUVBW3P6muSZDQJGWMFeQnU9Cst&pp=gAQB)  
+[fiddle list no 4 sh27](https://www.youtube.com/watch?v=RDwGSPsDh7k&list=PLz9-xQJUVBW3SPaWabL2lzPUB5fqWEkdX&pp=gAQB)  
+</td>
+</tr></table>
 https://onecompiler.com/python    
 https://juce.com/  
   
