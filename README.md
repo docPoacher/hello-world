@@ -1,4 +1,4 @@
-<table><tr><td>
+
 > [!important]
 >|**DO THIS NOW**  |
 >|---|
@@ -12,7 +12,8 @@
 >|      [folk music daily](https://singout.org/category/sorm/)  |
 
 ---
-
+<table><tr><td>
+	
 </td><td>
 	
 [Charlie Walden's 100 Essential Missouri Fiddle Tunes](https://www.youtube.com/watch?v=UTZ35-c9V6k&list=PLz9-xQJUVBW0Z1pSC3mbcEn8NROCwSOFL&pp=gAQB)  
