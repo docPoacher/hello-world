@@ -118,6 +118,7 @@ Value everyone's opinion.  Even the incorrect opinion from your viewpoint contai
 [Classic Butter Caramel](https://youtu.be/USTWdVERhkQ?si=iWFMVRJQIL0S7WSi)  
 [Pecan Pie without Corn Syrup from 1914](https://youtu.be/HMrFfPnPrDs?si=_yI6BbtfdwM3RIxx)  
 [Fermented Hot Sauce](https://youtu.be/bPrJCfqr5xA?si=9qv3exIQbhXu38ip)  
+[2 ingredient biscuits](https://youtube.com/shorts/CJth91iTA7Q?si=5vXTLEpPmohqXhRT)  
 
   
 ### Chef Jean-Pierre:  
