@@ -14,6 +14,7 @@
 ---
 
 </td><td>
+	
 [Charlie Walden's 100 Essential Missouri Fiddle Tunes](https://www.youtube.com/watch?v=UTZ35-c9V6k&list=PLz9-xQJUVBW0Z1pSC3mbcEn8NROCwSOFL&pp=gAQB)  
 [the celtic room sessions improved](https://www.youtube.com/watch?v=-UXdMYbuRKM&list=PLz9-xQJUVBW3w3C4kPaPMIJyxlzE--Mi3&pp=gAQB)  
 
