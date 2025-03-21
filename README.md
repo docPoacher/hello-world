@@ -23,8 +23,10 @@
 [fiddle mix no 2 sh27](https://www.youtube.com/watch?v=xb-3f3HnC2s&list=PLz9-xQJUVBW3e2kHzMcgEjhyzftE2CUEA&pp=gAQB)  
 [Fiddle Mix 3 sh27](https://www.youtube.com/watch?v=i93nuh2LkMM&list=PLz9-xQJUVBW3P6muSZDQJGWMFeQnU9Cst&pp=gAQB)  
 [fiddle list no 4 sh27](https://www.youtube.com/watch?v=RDwGSPsDh7k&list=PLz9-xQJUVBW3SPaWabL2lzPUB5fqWEkdX&pp=gAQB)  
+
 </td>
-</tr></table>
+</tr>
+</table>
 https://onecompiler.com/python    
 https://juce.com/  
   
