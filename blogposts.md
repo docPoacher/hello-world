@@ -6,6 +6,13 @@ date: 2025-03
 ---------------
 ---
 layout: blog
+title: "all over the planet a single voice can not be heard"
+date: 2025-03-26
+---
+Watching a livestream from Japan that was streamed from a bar I was at last year.  The stream is two months old and only had 80 views.  However, I supposed more people could have been watching, except the chat log is completely empty, meaning no one commented for the whole stream.  I could be wrong about this, but the idea, or semblance, of group is lost if you look at it from a specific angle.  Maybe only a few dozen regulars ever attend that bar, but here I am on the other side of Earth wondering about those people, some of whom I had some conversation with.  This is a stupid blog.
+
+---
+layout: blog
 title: "Warm"
 date: 2025-03-18
 ---
