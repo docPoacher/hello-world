@@ -6,6 +6,15 @@ date: 2025-03
 ---------------
 ---
 layout: blog
+title: "Ai will replace nothing"
+date: 2025-03
+---
+A robot car painter cannot replace a human painter, but it can paint a car panel.  A robot explorer cannot replace an astronaut, but it can roll around on the surface of Mars.  A computer program cannot replace an accountant, no more than the accountant replaces the business owner.  If I were to project forward, I would not see a work where machines do everything for humans, but where humans fit themselves into impossibly more complicated shapes to work for machines.  
+
+The industrial revolution did not replace workers, but transformed the tools that men used into more efficient tools.  The AI revolution will not replace workers, but remove the ability to offer that service.  The AI does not multiply a man's efforts but removes it entirely.  Things are not reviewed, just ignored.
+
+---
+layout: blog
 title: "all over the planet a single voice can not be heard"
 date: 2025-03-26
 ---
