@@ -6,8 +6,25 @@ date: 2025-03
 ---------------
 ---
 layout: blog
+title: "fill the silence"
+date: 2025-04-14
+---
+Recap: a week and a half ago I watched the Eddy Burbank video where he locks his smart phone in a safe for a month and adopts a pre-911 lifestyle.  He gets a chorded landline with answering machine, prints maps off the computer, and uses the bus, among other things.  This reminded me that tech pushes my life rather than me using tech to do the thing I want to do.  There are many things I would not be able to do without tech, but unfortunately the big tech black hole requires a blood sacrifice and that is my blood.  I tried going without watching any video on my phone for a week and it was pretty nice, but actually some things stood out pretty noticably.
+
+First, I spent a lot of extra time waiting and in silence.  Living with another person, I find myself waiting for them.  This made me wonder how often they wait for me.  Often I will be writing an email or a text to someone and they will ask me "What are you doing?"  This is kind of annoying because it should be expected that I respond in a timely manner to messages but also my attention is being mismanaged somehow, even during the test when I was not carrying my phone around but leaving it next to my computer.  I found that leaving it here not only helpped me compartmentalize but kept me from doing any social media.  I still watched a few video's on the computer but mostly I escaped.  
+
+There is a nagging need to connect to people and many people will not connect with you even with a smartphone.  I wrote a song about this and I think maybe I should just become a hermit or join a monastary, but one that is more like just a club because monkery is not Christian, even though the Far eastern orthodox church started monkery and then it became hinduism and buddhism and then zen as it moved east and I wish I could say those movements had Christian roots but unfortunately they are ultimately false religions that ensnare billions of people in a class locked slave system.
+
+I was watching a video from Cary the Snail about only using the library and he mentions that the constant need to fill the silence is sort of a mainstay for our modern lives.  In Anne of Green Gables, Anne enjoys spending time absorbing the sounds and smells of the area around Green Gables.  I thought, "yea, I know I'm supposed to feel sorry for her because she's like an orphan or whatever but wow does she have a pleasant life."  I realized that the fake need to "fill the void" of silence has forced millenials like me to attempt to think we can "find ourselves" but becoming van dwellers or buying a farm or something.  The true fact is often times people's depression is from lack of meaningful connection to humans.  We are disconnected at an extreme level.  In an effort to create a relationship with a live human being, our smartphones have become the relationship.  We talk to our phones, look at our phones, relax with our phones, look at, lick, smell, eat with, and sleep with our phones.  
+
+If you remove your phone from that life, what are you left with?  Silence, indeed.  Moving out to a wilderness you may experience a sudden "introspective" event, but it's not the wilderness that did it, it is the silence.  Elijah in 1 Kings 19 listened to a strong wind, am earthquake, and a fire, but found God's voice in the silence of the cave opening.  Even if we surround ourselves with the things that we love, we will only become stimulated.  We must search for God in the stillness and in the silence.
+
+But clotting our lives with business (the adjective for busy) and "nature" or tech, will not do it.
+
+---
+layout: blog
 title: "Ai will replace nothing"
-date: 2025-03
+date: 2025-04/12
 ---
 A robot car painter cannot replace a human painter, but it can paint a car panel.  A robot explorer cannot replace an astronaut, but it can roll around on the surface of Mars.  A computer program cannot replace an accountant, no more than the accountant replaces the business owner.  If I were to project forward, I would not see a work where machines do everything for humans, but where humans fit themselves into impossibly more complicated shapes to work for machines.  
 
