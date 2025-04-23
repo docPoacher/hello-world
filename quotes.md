@@ -1,3 +1,5 @@
+If you don't have anything old, you won't learn anything new.  - Zeinab
+
 If the carrot doesn't work, the stick usually does work.
 
 Mark applied for a job online.  Immediately he received a phone call from the owner of the company.  "Mark, I'm going to be straight with you.  We aren't hiring any black people."  Mark thought, this was odd, but confused he asked "What makes you think I'm black?"  The owner said "Oh, we know you're not black."  Mark, even more confused, asks why they aren't hiring black people.  The owner replies "We've had this opening for six months and you are the first one to apply."
