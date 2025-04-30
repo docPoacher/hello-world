@@ -52,6 +52,7 @@ https://dev.to/jordanfinners/creating-a-collapsible-section-with-nothing-but-htm
 <td>
 <details><summary>Reading</summary>  
 
+https://welcometotwinpeaks.com/lynch/david-lynch-playstation-commercial-making-of/  
 "I, pencil" Leonard E Reed  
 "Not Yours to Give" Davy Crockett  
 [Structures of mitochondrial oxidative phosphorylation supercomplexes and mechanisms for their stabilisation - ScienceDirect #3](https://www.sciencedirect.com/science/article/pii/S0005272813001746)  
