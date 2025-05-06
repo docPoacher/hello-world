@@ -19,6 +19,11 @@ http://www.celticartscenter.com/Songs/Irish/MoGhileMear.html
 # Computer stuff  
 ## Players:  
 https://www.igorski.nl/apps/efflux  
+vst samples  
+https://www.xperimentaproject.com/xperimenta-harpsichord/  
+https://vi-control.net/community/threads/most-realistic-sounding-harpsichord.103676/  
+  
+https://www.renoise.com/tools/scl-to-xrni  
 
 
 plugins to try:   
@@ -36,9 +41,14 @@ Temperament Studies:
 [Does the Key of Music Even Matter? - Jake Thurston](https://www.youtube.com/watch?v=xsv-raYq4YM) Contains good reference material.  
 [forum about recordings of uneven temperament](https://www.talkclassical.com/threads/recordings-in-uneven-temperament.48394/)  
 [An Introduction to Historical Tunings](https://www.kylegann.com/histune.html#hist3)  
+[Mathematical analyses of Bach's temperament](http://bpl.rf.gd/larips/math.html?i=1)  
+[discussion of bach's tuning](http://bpl.rf.gd/larips/math.html?i=1)  
+[Bach's Extraordinary Temperament: Our Rosetta Stone: 1](https://www.jstor.org/stable/3519512)  
+[Bach and "The Art of Temperament"](https://www.jstor.org/stable/739436)  
 
-<details><summmary>My ramblings on temperament done on december 5, 2023</summmary>
-</details>
+
+
+
   
 
 https://www.reddit.com/r/microtonal/comments/jvk1pw/mandelbit_microtonal_chiptune/  
